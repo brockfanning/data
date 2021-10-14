@@ -11,20 +11,26 @@
       "schema": {
         "fields": [
           {
-            "name": "Urbanisation",
+            "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Rural",
-                "Urban"
+                "18 – 34 роки",
+                "35 – 59 років",
+                "до 18 років",
+                "домогосподарства без дітей",
+                "домогосподарства з дітьми",
+                "жінки",
+                "понад 60 років",
+                "чоловіки"
               ]
             },
-            "title": "Urbanisation"
+            "title": "Group"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {

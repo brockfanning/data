@@ -16,20 +16,26 @@
             "title": "Year"
           },
           {
-            "name": "Urbanisation",
+            "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
+                "до 18 років",
+                "18 – 34 роки",
+                "35 – 59 років",
+                "понад 60 років",
+                "чоловіки",
+                "жінки",
+                "домогосподарства з дітьми",
+                "домогосподарства без дітей",
                 ""
               ]
             },
-            "title": "Urbanisation"
+            "title": "Group"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
