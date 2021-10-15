@@ -11,31 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "18 – 34 роки",
-                "35 – 59 років",
-                "до 18 років",
-                "домогосподарства без дітей",
-                "домогосподарства з дітьми",
-                "жінки",
-                "понад 60 років",
-                "чоловіки"
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           }
         ]
