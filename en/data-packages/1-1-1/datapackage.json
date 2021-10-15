@@ -11,13 +11,27 @@
       "schema": {
         "fields": [
           {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "18-34 years",
+                "35-59 years",
+                "60 years and older",
+                "under 18 years old"
+              ]
+            },
+            "title": "Group"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           }
         ]
