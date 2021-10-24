@@ -12,10 +12,69 @@ Value,Disaggregation combinations using this value,Number of indicators
 7 group,1,1
 8 group,1,1
 9 group,1,1
+bread and bakery products,1,1
+Cherkasy,5,5
+Chernihiv,5,5
+Chernivtsi,5,5
+Dnipropetrovsk,5,5
+Donetsk,5,5
+eggs,1,1
+enterprises (agricultural products),1,1
+enterprises (crop products),1,1
+enterprises (livestock products),1,1
+farms (agricultural products),1,1
+farms (crop products),1,1
+farms (livestock products),1,1
 females,3,3
+fish and fish products,1,1
+fruits,1,1
+households (agricultural products),1,1
+households (crop products),1,1
+households (livestock products),1,1
 households with children,2,2
 households without children,2,2
+Ivano-Frankivsk,5,5
+Kharkiv,5,5
+Kherson,5,5
+Khmelnytskiy,5,5
+Kirovohrad,5,5
+Kyiv,5,5
+Luhansk,5,5
+Lviv,5,5
 males,3,3
+meat and meat products,1,1
+milk,1,1
+Mykolayiv,5,5
+Odesa,5,5
+Poltava,5,5
+processing and preserving of fish. crustaceans and molluscs,1,1
+processing and preserving of fruits and vegetables,1,1
+production of bread and bakery products. production of  short-term storage flour confectioner. cakes and pastries,1,1
+production of bread and bakery products. production of  short-term storage flour confectionery. cakes and pastries,1,1
+production of bread. bakery and flour products,1,1
+production of cocoa. chocolate and sugar confectionery,1,1
+production of dairy products,1,1
+production of flour and cereal product. starches and starch products,1,1
+production of flour and cereal products. starches and starch products,1,1
+production of flour and cereal products,1,1
+production of meat and meat products,1,1
+production of oil and animal fats,1,1
+production of other food products not elsewhere classified,1,1
+production of rusks and biscuits. production of  long-term storage flour confectionery. cakes and pastries,1,1
+production of spices and seasonings,1,1
+production of sugar,1,1
+production of tea and coffee,1,1
+Rivne,5,5
 rural,2,2
+sugar,1,1
+Sumy,5,5
+sunflower oil,1,1
+Ternopil,5,5
 under 18 years old,2,2
 urban,2,2
+vegetables,1,1
+Vinnytsya,5,5
+Volyn,5,5
+Zakarpattya,5,5
+Zaporizhya,5,5
+Zhytomyr,5,5

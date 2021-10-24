@@ -1,0 +1,57 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "processing and preserving of fish. crustaceans and molluscs",
+                "processing and preserving of fruits and vegetables",
+                "production of bread and bakery products. production of  short-term storage flour confectioner. cakes and pastries",
+                "production of bread and bakery products. production of  short-term storage flour confectionery. cakes and pastries",
+                "production of bread. bakery and flour products",
+                "production of cocoa. chocolate and sugar confectionery",
+                "production of dairy products",
+                "production of flour and cereal product. starches and starch products",
+                "production of flour and cereal products",
+                "production of flour and cereal products. starches and starch products",
+                "production of meat and meat products",
+                "production of oil and animal fats",
+                "production of other food products not elsewhere classified",
+                "production of rusks and biscuits. production of  long-term storage flour confectionery. cakes and pastries",
+                "production of spices and seasonings",
+                "production of sugar",
+                "production of tea and coffee"
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-3-1",
+  "title": "2-3-1"
+}
