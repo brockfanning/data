@@ -12,7 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                "males",
+                "females",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
