@@ -1,14 +1,14 @@
 Value,Disaggregation combinations using this value,Number of indicators
 1  group (low income),1,1
 10 group (high income),1,1
-18-34 years,2,2
+18-34 years,1,1
 2 group,1,1
 3 group,1,1
-35-59 years,2,2
+35-59 years,1,1
 4 group,1,1
 5 group,1,1
 6 group,1,1
-60 years and older,2,2
+60 years and older,1,1
 7 group,1,1
 8 group,1,1
 9 group,1,1
@@ -25,14 +25,14 @@ enterprises (livestock products),1,1
 farms (agricultural products),1,1
 farms (crop products),1,1
 farms (livestock products),1,1
-females,3,3
+females,2,2
 fish and fish products,1,1
 fruits,1,1
 households (agricultural products),1,1
 households (crop products),1,1
 households (livestock products),1,1
-households with children,2,2
-households without children,2,2
+households with children,1,1
+households without children,1,1
 Ivano-Frankivsk,5,5
 Kharkiv,5,5
 Kherson,5,5
@@ -41,7 +41,7 @@ Kirovohrad,5,5
 Kyiv,5,5
 Luhansk,5,5
 Lviv,5,5
-males,3,3
+males,2,2
 meat and meat products,1,1
 milk,1,1
 Mykolayiv,5,5
@@ -70,7 +70,7 @@ sugar,1,1
 Sumy,5,5
 sunflower oil,1,1
 Ternopil,5,5
-under 18 years old,2,2
+under 18 years old,1,1
 urban,2,2
 vegetables,1,1
 Vinnytsya,5,5
