@@ -685,7 +685,7 @@
           }
         ]
       },
-      "title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)"
+      "title": "1-1-2"
     },
     {
       "path": "1-3-2/data.csv",
@@ -732,30 +732,6 @@
         ]
       },
       "title": "1-3-2"
-    },
-    {
-      "path": "indicator_1-1-1/data.csv",
-      "name": "indicator_1-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Ukraine national indicator 1-1-1"
     },
     {
       "path": "meta_1-1-1/data.csv",
