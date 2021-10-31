@@ -286,6 +286,37 @@
       "title": "8-5-3"
     },
     {
+      "path": "9-3-2/data.csv",
+      "name": "9-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "9-3-2"
+    },
+    {
       "path": "7-1-3/data.csv",
       "name": "7-1-3",
       "profile": "tabular-data-resource",
@@ -532,6 +563,37 @@
       "title": "5-3-1"
     },
     {
+      "path": "9-4-3/data.csv",
+      "name": "9-4-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "9-4-3"
+    },
+    {
       "path": "5-2-10/data.csv",
       "name": "5-2-10",
       "profile": "tabular-data-resource",
@@ -718,6 +780,37 @@
         ]
       },
       "title": "4-1-2"
+    },
+    {
+      "path": "9-2-1/data.csv",
+      "name": "9-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "9-2-1"
     },
     {
       "path": "4-5-1/data.csv",
@@ -1020,6 +1113,37 @@
       "title": "6-1-3"
     },
     {
+      "path": "9-5-1/data.csv",
+      "name": "9-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "9-5-1"
+    },
+    {
       "path": "7-3-1/data.csv",
       "name": "7-3-1",
       "profile": "tabular-data-resource",
@@ -1117,6 +1241,73 @@
       "title": "1-3-1"
     },
     {
+      "path": "9-5-2/data.csv",
+      "name": "9-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mining and quarrying",
+                "extraction of hard coal and brown coal",
+                "extraction of crude oil and natural gas",
+                "extraction of metal ores",
+                "extraction of other minerals and quarrying",
+                "provision of ancillary services in the field of mining and quarrying",
+                "processing industry",
+                "manufacture of food products",
+                "manufacture of beverages",
+                "manufacture of tobacco products",
+                "textile manufacturing",
+                "manufacture of clothing",
+                "manufacture of leather. leather goods and other materials",
+                "manufacture of wood and of products of wood and cork. except furniture. manufacture of articles of straw and plaiting materials",
+                "manufacture of paper and paper products",
+                "printing. reproduction of recorded information",
+                "manufacture of coke and refined petroleum products",
+                "manufacture of chemicals and chemical products",
+                "manufacture of main pharmaceutical products and preparations",
+                "manufacture of other non-metallic mineral products",
+                "metallurgical manufacturing",
+                "manufacture of fabricated metal products. except machinery and equipment",
+                "manufacture of computers. electronic and optical products",
+                "manufacture of electrical equipment",
+                "manufacture of machinery and equipment. not elsewhere classified",
+                "manufacture of motor vehicles. trailers and semi-trailers",
+                "manufacture of other vehicles",
+                "manufacture of furniture",
+                "manufacture of other products",
+                "repair and installation of machinery and equipment",
+                "supply of electricity. gas. steam and air conditioning",
+                "water supply. sewage. waste management",
+                "water collection. treatment and supply",
+                "sewage. wastewater collection and treatment",
+                "collection. treatment and disposal of waste. restoration of materials",
+                "other waste management activities",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "9-5-2"
+    },
+    {
       "path": "3-6-2/data.csv",
       "name": "3-6-2",
       "profile": "tabular-data-resource",
@@ -1183,6 +1374,62 @@
       "title": "3-5-1"
     },
     {
+      "path": "9-7-1/data.csv",
+      "name": "9-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "Kyiv city",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "9-7-1"
+    },
+    {
       "path": "3-6-1/data.csv",
       "name": "3-6-1",
       "profile": "tabular-data-resource",
@@ -1212,6 +1459,37 @@
         ]
       },
       "title": "3-6-1"
+    },
+    {
+      "path": "9-3-1/data.csv",
+      "name": "9-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "9-3-1"
     },
     {
       "path": "5-2-8/data.csv",
@@ -1961,6 +2239,43 @@
       "title": "5-2-12"
     },
     {
+      "path": "9-1-2/data.csv",
+      "name": "9-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "rail",
+                "motor",
+                "sea",
+                "river",
+                "pipeline",
+                "air",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "9-1-2"
+    },
+    {
       "path": "5-2-6/data.csv",
       "name": "5-2-6",
       "profile": "tabular-data-resource",
@@ -2356,6 +2671,45 @@
       "title": "7-4-1"
     },
     {
+      "path": "9-1-3/data.csv",
+      "name": "9-1-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "rail",
+                "motor",
+                "sea",
+                "river",
+                "air",
+                "tram",
+                "trolleybus",
+                "subway",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "9-1-3"
+    },
+    {
       "path": "3-3-1/data.csv",
       "name": "3-3-1",
       "profile": "tabular-data-resource",
@@ -2443,6 +2797,37 @@
         ]
       },
       "title": "2-3-2"
+    },
+    {
+      "path": "9-1-1/data.csv",
+      "name": "9-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "9-1-1"
     },
     {
       "path": "1-1-1/data.csv",
@@ -2612,6 +2997,37 @@
         ]
       },
       "title": "5-2-9"
+    },
+    {
+      "path": "9-4-2/data.csv",
+      "name": "9-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "9-4-2"
     },
     {
       "path": "6-4-2/data.csv",
@@ -2856,6 +3272,145 @@
         ]
       },
       "title": "7-1-2"
+    },
+    {
+      "path": "9-6-1/data.csv",
+      "name": "9-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "Kyiv city",
+                "urban",
+                "urban Vinnytsya",
+                "urban Volyn",
+                "urban Dnipropetrovsk",
+                "urban Donetsk",
+                "urban Zhytomyr",
+                "urban Zakarpattya",
+                "urban Zaporizhya",
+                "urban Ivano-Frankivsk",
+                "urban Kyiv",
+                "urban Kirovohrad",
+                "urban Luhansk",
+                "urban Lviv",
+                "urban Mykolayiv",
+                "urban Odesa",
+                "urban Poltava",
+                "urban Rivne",
+                "urban Sumy",
+                "urban Ternopil",
+                "urban Kharkiv",
+                "urban Kherson",
+                "urban Khmelnytskiy",
+                "urban Cherkasy",
+                "urban Chernivtsi",
+                "urban Chernihiv",
+                "urban Kyiv city",
+                "rural",
+                "rural Vinnytsya",
+                "rural Volyn",
+                "rural Dnipropetrovsk",
+                "rural Donetsk",
+                "rural Zhytomyr",
+                "rural Zakarpattya",
+                "rural Zaporizhya",
+                "rural Ivano-Frankivsk",
+                "rural Kyiv",
+                "rural Kirovohrad",
+                "rural Luhansk",
+                "rural Lviv",
+                "rural Mykolayiv",
+                "rural Odesa",
+                "rural Poltava",
+                "rural Rivne",
+                "rural Sumy",
+                "rural Ternopil",
+                "rural Kharkiv",
+                "rural Kherson",
+                "rural Khmelnytskiy",
+                "rural Cherkasy",
+                "rural Chernivtsi",
+                "rural Chernihiv",
+                "rural Kyiv city",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "9-6-1"
+    },
+    {
+      "path": "9-4-1/data.csv",
+      "name": "9-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "9-4-1"
     },
     {
       "path": "2-3-1/data.csv",
@@ -3153,6 +3708,42 @@
         ]
       },
       "title": "8-1-4"
+    },
+    {
+      "path": "9-1-4/data.csv",
+      "name": "9-1-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "land and pipeline transport",
+                "water transport",
+                "air transport",
+                "warehousing and auxiliary transport activities",
+                "post and courier services",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "9-1-4"
     },
     {
       "path": "1-1-2/data.csv",

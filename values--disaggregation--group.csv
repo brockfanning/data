@@ -24,6 +24,8 @@ administrative and support service activities,1,1
 agriculture and related services,1,1
 agriculture. forestry and fisheries,1,1
 agriculture,2,2
+air transport,1,1
+air,2,2
 all population. 15-24 years,1,1
 all population. 25-64 years,1,1
 all population.basic higher. 15-24 years,1,1
@@ -50,9 +52,9 @@ category A,1,1
 category B,1,1
 category C,1,1
 centralized,3,3
-Cherkasy,13,13
-Chernihiv,13,13
-Chernivtsi,13,13
+Cherkasy,15,15
+Chernihiv,15,15
+Chernivtsi,15,15
 child,1,1
 CHP,1,1
 city 1st level (basic. 0-3 points),1,1
@@ -60,6 +62,7 @@ city 2nd level (intermediate. 4-6 points),1,1
 city 3rd level (adequate. 7-9 points),1,1
 city 4th level (high. 10-12 points),1,1
 coal (2701),1,1
+collection. treatment and disposal of waste. restoration of materials,1,1
 communication,2,2
 construction,4,4
 decentralized,3,3
@@ -68,8 +71,8 @@ diphtheria. tetanus  (18 months),1,1
 diphtheria. tetanus  (6 years),1,1
 diphtheria. tetanus  (adults),1,1
 diphtheria. tetanus  (under 1 year),1,1
-Dnipropetrovsk,13,13
-Donetsk,13,13
+Dnipropetrovsk,15,15
+Donetsk,15,15
 duration of unpaid homework. minutes per day.female,1,1
 duration of unpaid homework. minutes per day.male,1,1
 duration of unpaid homework. minutes per day.rural,1,1
@@ -86,6 +89,10 @@ enterprises (crop products),1,1
 enterprises (livestock products),1,1
 excess value of technological electric power consumption,1,1
 expenditures of higher education institutions on scientific research activities. million UAH,1,1
+extraction of crude oil and natural gas,1,1
+extraction of hard coal and brown coal,1,1
+extraction of metal ores,1,1
+extraction of other minerals and quarrying,1,1
 farms (agricultural products),1,1
 farms (crop products),1,1
 farms (livestock products),1,1
@@ -126,16 +133,17 @@ households without children,2,2
 HPP,1,1
 industry,4,4
 information and telecommunications,1,1
-Ivano-Frankivsk,13,13
-Kharkiv,13,13
-Kherson,13,13
-Khmelnytskiy,13,13
-Kirovohrad,13,13
-Kyiv city,8,8
-Kyiv,13,13
+Ivano-Frankivsk,15,15
+Kharkiv,15,15
+Kherson,15,15
+Khmelnytskiy,15,15
+Kirovohrad,15,15
+Kyiv city,10,10
+Kyiv,15,15
+land and pipeline transport,1,1
 logistics,2,2
-Luhansk,13,13
-Lviv,13,13
+Luhansk,15,15
+Lviv,15,15
 male. 15-24 years,1,1
 male 1st level (basic. 0-3 points),1,1
 male. 25-64 years,1,1
@@ -156,30 +164,46 @@ male.incomplete higher. 25-64 years,1,1
 male.professional and technical. 15-24 years,1,1
 male.professional and technical. 25-64 years,1,1
 males,3,3
-manufacture of chemicals and chemical products,1,1
-manufacture of coke and refined petroleum products,1,1
-manufacture of computers. electronic and optical products,1,1
-manufacture of electrical equipment,1,1
+manufacture of beverages,1,1
+manufacture of chemicals and chemical products,2,2
+manufacture of clothing,1,1
+manufacture of coke and refined petroleum products,2,2
+manufacture of computers. electronic and optical products,2,2
+manufacture of electrical equipment,2,2
+manufacture of fabricated metal products. except machinery and equipment,1,1
 manufacture of food. beverages and tobacco products,1,1
+manufacture of food products,1,1
 manufacture of furniture. other products. repair and installation of machinery and equipment,1,1
-manufacture of machinery and equipment. not elsewhere classified,1,1
-manufacture of main pharmaceutical products and preparations,1,1
+manufacture of furniture,1,1
+manufacture of leather. leather goods and other materials,1,1
+manufacture of machinery and equipment. not elsewhere classified,2,2
+manufacture of main pharmaceutical products and preparations,2,2
 manufacture of motor vehicles. trailers and semi-trailers and other vehicles,1,1
+manufacture of motor vehicles. trailers and semi-trailers,1,1
+manufacture of other non-metallic mineral products,1,1
+manufacture of other products,1,1
+manufacture of other vehicles,1,1
+manufacture of paper and paper products,1,1
 manufacture of rubber and plastic products. other non-metallic mineral products,1,1
+manufacture of tobacco products,1,1
+manufacture of wood and of products of wood and cork. except furniture. manufacture of articles of straw and plaiting materials,1,1
 manufacture of wood products. paper manufacturing and printing,1,1
 measles. mumps. rubella  (1 year),1,1
 measles. mumps. rubella  (6 years),1,1
 meat and meat products,1,1
 metallurgical manufacturing. manufacture of fabricated metal products. except machinery and equipment,1,1
+metallurgical manufacturing,1,1
 milk,1,1
 mining and quarrying including hard coal and brown coal extraction,1,1
-mining and quarrying,1,1
-Mykolayiv,13,13
+mining and quarrying,2,2
+motor,2,2
+Mykolayiv,15,15
 natural gas (271121),1,1
 normative value of technological electric power consumption,1,1
 NPP,1,1
-Odesa,13,13
+Odesa,15,15
 other sectors,2,2
+other waste management activities,1,1
 per 1000 women aged 15,1,1
 per 1000 women aged 16,1,1
 per 1000 women aged 17,1,1
@@ -188,15 +212,18 @@ per 1000 women aged 19,1,1
 pertussis  (18 months),1,1
 pertussis  (under 1 year),1,1
 petroleum (2709),1,1
+pipeline,1,1
 poliomyelitis (14 years),1,1
 poliomyelitis (18 months),1,1
 poliomyelitis (6 years),1,1
 poliomyelitis (under 1 year),1,1
-Poltava,13,13
+Poltava,15,15
+post and courier services,1,1
 power generating companies of TPP,1,1
+printing. reproduction of recorded information,1,1
 processing and preserving of fish. crustaceans and molluscs,1,1
 processing and preserving of fruits and vegetables,1,1
-processing industry,1,1
+processing industry,2,2
 production of bread and bakery products. production of  short-term storage flour confectioner. cakes and pastries,1,1
 production of bread and bakery products. production of  short-term storage flour confectionery. cakes and pastries,1,1
 production of bread. bakery and flour products,1,1
@@ -213,47 +240,110 @@ production of spices and seasonings,1,1
 production of sugar,1,1
 production of tea and coffee,1,1
 professional. scientific and technical activities,1,1
+provision of ancillary services in the field of mining and quarrying,1,1
 provision of other services,1,1
 PSP,1,1
 public administration and defense. compulsory social insurance,1,1
 public education,2,2
+rail,2,2
 real estate transactions,1,1
+repair and installation of machinery and equipment,1,1
 reported actual value of technological electric power consumption,1,1
 residential sector,2,2
-Rivne,13,13
+river,2,2
+Rivne,15,15
 road transport used by road hauliers,1,1
-rural,13,13
+rural Cherkasy,1,1
+rural Chernihiv,1,1
+rural Chernivtsi,1,1
+rural Dnipropetrovsk,1,1
+rural Donetsk,1,1
+rural Ivano-Frankivsk,1,1
+rural Kharkiv,1,1
+rural Kherson,1,1
+rural Khmelnytskiy,1,1
+rural Kirovohrad,1,1
+rural Kyiv city,1,1
+rural Kyiv,1,1
+rural Luhansk,1,1
+rural Lviv,1,1
+rural Mykolayiv,1,1
+rural Odesa,1,1
+rural Poltava,1,1
+rural Rivne,1,1
+rural Sumy,1,1
+rural Ternopil,1,1
+rural Vinnytsya,1,1
+rural Volyn,1,1
+rural Zakarpattya,1,1
+rural Zaporizhya,1,1
+rural Zhytomyr,1,1
+rural,14,14
+sea,2,2
 settlemalet. village 1st level (basic. 0-3 points),1,1
 settlemalet. village 2nd level (intermediate. 4-6 points),1,1
 settlemalet. village 3rd level (adequate. 7-9 points),1,1
 settlemalet. village 4th level (high. 10-12 points),1,1
+sewage. wastewater collection and treatment,1,1
+subway,1,1
 sugar,1,1
-Sumy,13,13
+Sumy,15,15
 sunflower oil,1,1
-supply of electricity. gas. steam and air conditioning,1,1
+supply of electricity. gas. steam and air conditioning,2,2
 technological electric power consumption in distribution system,1,1
 telecommunications,1,1
 temporary accommodation and catering,1,1
-Ternopil,13,13
+Ternopil,15,15
 textile manufacturing. manufacture of clothing. Leather. leather goods and other materials,1,1
+textile manufacturing,1,1
 trade and catering,2,2
+tram,1,1
 transport. warehousing. post and courier services,1,1
 transport. warehousing. postal and courier activities,1,1
 transport,2,2
+trolleybus,1,1
 tuberculosis  (under 1 year),1,1
 under 18 years old,2,2
 up to 15 years,1,1
+urban Cherkasy,1,1
+urban Chernihiv,1,1
+urban Chernivtsi,1,1
+urban Dnipropetrovsk,1,1
+urban Donetsk,1,1
 urban electric transport,1,1
+urban Ivano-Frankivsk,1,1
+urban Kharkiv,1,1
+urban Kherson,1,1
+urban Khmelnytskiy,1,1
+urban Kirovohrad,1,1
+urban Kyiv city,1,1
+urban Kyiv,1,1
+urban Luhansk,1,1
+urban Lviv,1,1
+urban Mykolayiv,1,1
+urban Odesa,1,1
+urban Poltava,1,1
+urban Rivne,1,1
 urban settlemalet 1st level (basic. 0-3 points),1,1
 urban settlemalet 2nd level (intermediate. 4-6 points),1,1
 urban settlemalet 3rd level (adequate. 7-9 points),1,1
 urban settlemalet 4th level (high. 10-12 points),1,1
-urban,13,13
+urban Sumy,1,1
+urban Ternopil,1,1
+urban Vinnytsya,1,1
+urban Volyn,1,1
+urban Zakarpattya,1,1
+urban Zaporizhya,1,1
+urban Zhytomyr,1,1
+urban,14,14
 vegetables,1,1
-Vinnytsya,13,13
-Volyn,13,13
-water supply. sewage. waste management,1,1
+Vinnytsya,15,15
+Volyn,15,15
+warehousing and auxiliary transport activities,1,1
+water collection. treatment and supply,1,1
+water supply. sewage. waste management,2,2
+water transport,1,1
 wholesale and retail trade. repair of motor vehicles and motorcycles,1,1
-Zakarpattya,13,13
-Zaporizhya,13,13
-Zhytomyr,13,13
+Zakarpattya,15,15
+Zaporizhya,15,15
+Zhytomyr,15,15
