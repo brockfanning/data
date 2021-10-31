@@ -1,0 +1,40 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "stealing. misappropriation. extortion of firearms. ammunition. explosives or radioactive materials. or acquisition by fraud or abuse of office. art. 262",
+                "Illegal handling of weapons. ammunition or explosives. art. 263",
+                "Illegal manufacture. processing or repair of firearms. or tampering. illegal removal or alteration of their marking. or illicit manufacture of ammunition. explosives or explosive devices. art. 263-1",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-5-3",
+  "title": "16-5-3"
+}

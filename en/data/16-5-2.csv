@@ -1,0 +1,781 @@
+Year,Group,Value
+2015,,204326.0
+2016,,177757.0
+2017,,280276.0
+2018,,273167.0
+2019,,206918.0
+2020,,182582.0
+2015,cartridges,202142.0
+2016,cartridges,174954.0
+2017,cartridges,278238.0
+2018,cartridges,271141.0
+2019,cartridges,204899.0
+2020,cartridges,179186.0
+2015,grenades,2099.0
+2016,grenades,2698.0
+2017,grenades,1935.0
+2018,grenades,1918.0
+2019,grenades,1889.0
+2020,grenades,1228.0
+2015,mines,26.0
+2016,mines,61.0
+2017,mines,57.0
+2018,mines,48.0
+2019,mines,84.0
+2020,mines,24.0
+2015,improvised explosive devices,59.0
+2016,improvised explosive devices,44.0
+2017,improvised explosive devices,46.0
+2018,improvised explosive devices,60.0
+2019,improvised explosive devices,46.0
+2020,improvised explosive devices,124.0
+2015,Vinnytsya,3982.0
+2016,Vinnytsya,6624.0
+2017,Vinnytsya,5909.0
+2018,Vinnytsya,12284.0
+2019,Vinnytsya,12436.0
+2020,Vinnytsya,7006.0
+2015,Volyn,1536.0
+2016,Volyn,2392.0
+2017,Volyn,5351.0
+2018,Volyn,4581.0
+2019,Volyn,2461.0
+2020,Volyn,5316.0
+2015,Dnipropetrovsk,43122.0
+2016,Dnipropetrovsk,10419.0
+2017,Dnipropetrovsk,27831.0
+2018,Dnipropetrovsk,21941.0
+2019,Dnipropetrovsk,21774.0
+2020,Dnipropetrovsk,23838.0
+2015,Donetsk,19780.0
+2016,Donetsk,30997.0
+2017,Donetsk,47498.0
+2018,Donetsk,37417.0
+2019,Donetsk,54489.0
+2020,Donetsk,14330.0
+2015,Zhytomyr,3461.0
+2016,Zhytomyr,3321.0
+2017,Zhytomyr,3686.0
+2018,Zhytomyr,2006.0
+2019,Zhytomyr,2725.0
+2020,Zhytomyr,4256.0
+2015,Zakarpattya,1663.0
+2016,Zakarpattya,866.0
+2017,Zakarpattya,1773.0
+2018,Zakarpattya,1777.0
+2019,Zakarpattya,1821.0
+2020,Zakarpattya,1772.0
+2015,Zaporizhya,6385.0
+2016,Zaporizhya,40202.0
+2017,Zaporizhya,34304.0
+2018,Zaporizhya,5202.0
+2019,Zaporizhya,5231.0
+2020,Zaporizhya,9316.0
+2015,Ivano-Frankivsk,3573.0
+2016,Ivano-Frankivsk,3317.0
+2017,Ivano-Frankivsk,5177.0
+2018,Ivano-Frankivsk,17075.0
+2019,Ivano-Frankivsk,5996.0
+2020,Ivano-Frankivsk,2695.0
+2015,Kyiv,8154.0
+2016,Kyiv,10017.0
+2017,Kyiv,32340.0
+2018,Kyiv,5467.0
+2019,Kyiv,6608.0
+2020,Kyiv,3945.0
+2015,Kirovohrad,2361.0
+2016,Kirovohrad,1256.0
+2017,Kirovohrad,5508.0
+2018,Kirovohrad,8830.0
+2019,Kirovohrad,4151.0
+2020,Kirovohrad,4836.0
+2015,Luhansk,16674.0
+2016,Luhansk,16888.0
+2017,Luhansk,14655.0
+2018,Luhansk,15700.0
+2019,Luhansk,15017.0
+2020,Luhansk,16238.0
+2015,Lviv,2435.0
+2016,Lviv,1399.0
+2017,Lviv,10073.0
+2018,Lviv,4847.0
+2019,Lviv,4685.0
+2020,Lviv,4560.0
+2015,Mykolayiv,9515.0
+2016,Mykolayiv,2834.0
+2017,Mykolayiv,6209.0
+2018,Mykolayiv,8323.0
+2019,Mykolayiv,4231.0
+2020,Mykolayiv,1624.0
+2015,Odesa,21340.0
+2016,Odesa,3665.0
+2017,Odesa,5009.0
+2018,Odesa,12350.0
+2019,Odesa,11256.0
+2020,Odesa,5687.0
+2015,Poltava,5632.0
+2016,Poltava,7072.0
+2017,Poltava,6276.0
+2018,Poltava,5369.0
+2019,Poltava,3343.0
+2020,Poltava,5730.0
+2015,Rivne,3798.0
+2016,Rivne,2783.0
+2017,Rivne,5092.0
+2018,Rivne,9344.0
+2019,Rivne,14106.0
+2020,Rivne,29331.0
+2015,Sumy,3254.0
+2016,Sumy,3283.0
+2017,Sumy,12851.0
+2018,Sumy,3590.0
+2019,Sumy,2556.0
+2020,Sumy,2125.0
+2015,Ternopil,2074.0
+2016,Ternopil,1674.0
+2017,Ternopil,4576.0
+2018,Ternopil,2867.0
+2019,Ternopil,2248.0
+2020,Ternopil,2046.0
+2015,Kharkiv,15470.0
+2016,Kharkiv,10051.0
+2017,Kharkiv,12498.0
+2018,Kharkiv,9327.0
+2019,Kharkiv,5971.0
+2020,Kharkiv,10032.0
+2015,Kherson,4280.0
+2016,Kherson,3330.0
+2017,Kherson,6172.0
+2018,Kherson,39934.0
+2019,Kherson,6161.0
+2020,Kherson,5022.0
+2015,Khmelnytskiy,1271.0
+2016,Khmelnytskiy,1002.0
+2017,Khmelnytskiy,9839.0
+2018,Khmelnytskiy,4023.0
+2019,Khmelnytskiy,3376.0
+2020,Khmelnytskiy,3404.0
+2015,Cherkasy,3016.0
+2016,Cherkasy,4663.0
+2017,Cherkasy,3576.0
+2018,Cherkasy,2601.0
+2019,Cherkasy,2791.0
+2020,Cherkasy,2852.0
+2015,Chernivtsi,921.0
+2016,Chernivtsi,196.0
+2017,Chernivtsi,1668.0
+2018,Chernivtsi,3538.0
+2019,Chernivtsi,1956.0
+2020,Chernivtsi,5455.0
+2015,Chernihiv,6855.0
+2016,Chernihiv,3185.0
+2017,Chernihiv,4742.0
+2018,Chernihiv,8477.0
+2019,Chernihiv,3672.0
+2020,Chernihiv,4431.0
+2015,Kyiv city,9851.0
+2016,Kyiv city,6250.0
+2017,Kyiv city,7531.0
+2018,Kyiv city,26260.0
+2019,Kyiv city,7857.0
+2020,Kyiv city,4715.0
+2015,Vinnytsya cartridges,3952.0
+2016,Vinnytsya cartridges,6584.0
+2017,Vinnytsya cartridges,5893.0
+2018,Vinnytsya cartridges,12247.0
+2019,Vinnytsya cartridges,12423.0
+2020,Vinnytsya cartridges,6988.0
+2015,Volyn cartridges,1508.0
+2016,Volyn cartridges,1664.0
+2017,Volyn cartridges,5312.0
+2018,Volyn cartridges,4555.0
+2019,Volyn cartridges,2440.0
+2020,Volyn cartridges,5074.0
+2015,Dnipropetrovsk cartridges,42751.0
+2016,Dnipropetrovsk cartridges,10320.0
+2017,Dnipropetrovsk cartridges,27620.0
+2018,Dnipropetrovsk cartridges,21697.0
+2019,Dnipropetrovsk cartridges,21498.0
+2020,Dnipropetrovsk cartridges,23696.0
+2015,Donetsk cartridges,19344.0
+2016,Donetsk cartridges,30594.0
+2017,Donetsk cartridges,47187.0
+2018,Donetsk cartridges,37122.0
+2019,Donetsk cartridges,54233.0
+2020,Donetsk cartridges,14243.0
+2015,Zhytomyr cartridges,3434.0
+2016,Zhytomyr cartridges,3284.0
+2017,Zhytomyr cartridges,3650.0
+2018,Zhytomyr cartridges,1984.0
+2019,Zhytomyr cartridges,2714.0
+2020,Zhytomyr cartridges,4245.0
+2015,Zakarpattya cartridges,1652.0
+2016,Zakarpattya cartridges,857.0
+2017,Zakarpattya cartridges,1763.0
+2018,Zakarpattya cartridges,1762.0
+2019,Zakarpattya cartridges,1812.0
+2020,Zakarpattya cartridges,1752.0
+2015,Zaporizhya cartridges,6267.0
+2016,Zaporizhya cartridges,39459.0
+2017,Zaporizhya cartridges,34052.0
+2018,Zaporizhya cartridges,5086.0
+2019,Zaporizhya cartridges,5115.0
+2020,Zaporizhya cartridges,9285.0
+2015,Ivano-Frankivsk cartridges,3546.0
+2016,Ivano-Frankivsk cartridges,3284.0
+2017,Ivano-Frankivsk cartridges,5150.0
+2018,Ivano-Frankivsk cartridges,17002.0
+2019,Ivano-Frankivsk cartridges,5973.0
+2020,Ivano-Frankivsk cartridges,2675.0
+2015,Kyiv cartridges,8122.0
+2016,Kyiv cartridges,9976.0
+2017,Kyiv cartridges,32203.0
+2018,Kyiv cartridges,5423.0
+2019,Kyiv cartridges,6548.0
+2020,Kyiv cartridges,3906.0
+2015,Kirovohrad cartridges,2286.0
+2016,Kirovohrad cartridges,1239.0
+2017,Kirovohrad cartridges,5481.0
+2018,Kirovohrad cartridges,8771.0
+2019,Kirovohrad cartridges,4100.0
+2020,Kirovohrad cartridges,4777.0
+2015,Luhansk cartridges,16453.0
+2016,Luhansk cartridges,16764.0
+2017,Luhansk cartridges,14436.0
+2018,Luhansk cartridges,15485.0
+2019,Luhansk cartridges,14907.0
+2020,Luhansk cartridges,16099.0
+2015,Lviv cartridges,2418.0
+2016,Lviv cartridges,1386.0
+2017,Lviv cartridges,10006.0
+2018,Lviv cartridges,4813.0
+2019,Lviv cartridges,4650.0
+2020,Lviv cartridges,4545.0
+2015,Mykolayiv cartridges,9451.0
+2016,Mykolayiv cartridges,2813.0
+2017,Mykolayiv cartridges,6175.0
+2018,Mykolayiv cartridges,8282.0
+2019,Mykolayiv cartridges,4198.0
+2020,Mykolayiv cartridges,1611.0
+2015,Odesa cartridges,21301.0
+2016,Odesa cartridges,3622.0
+2017,Odesa cartridges,4986.0
+2018,Odesa cartridges,12303.0
+2019,Odesa cartridges,11180.0
+2020,Odesa cartridges,5635.0
+2015,Poltava cartridges,5588.0
+2016,Poltava cartridges,7025.0
+2017,Poltava cartridges,6219.0
+2018,Poltava cartridges,5327.0
+2019,Poltava cartridges,3308.0
+2020,Poltava cartridges,5713.0
+2015,Rivne cartridges,3735.0
+2016,Rivne cartridges,2721.0
+2017,Rivne cartridges,5036.0
+2018,Rivne cartridges,9257.0
+2019,Rivne cartridges,13876.0
+2020,Rivne cartridges,29215.0
+2015,Sumy cartridges,3159.0
+2016,Sumy cartridges,3248.0
+2017,Sumy cartridges,12806.0
+2018,Sumy cartridges,3557.0
+2019,Sumy cartridges,2537.0
+2020,Sumy cartridges,2114.0
+2015,Ternopil cartridges,2056.0
+2016,Ternopil cartridges,1658.0
+2017,Ternopil cartridges,4543.0
+2018,Ternopil cartridges,2830.0
+2019,Ternopil cartridges,2211.0
+2020,Ternopil cartridges,2022.0
+2015,Kharkiv cartridges,15215.0
+2016,Kharkiv cartridges,9960.0
+2017,Kharkiv cartridges,12365.0
+2018,Kharkiv cartridges,9164.0
+2019,Kharkiv cartridges,5768.0
+2020,Kharkiv cartridges,9837.0
+2015,Kherson cartridges,4257.0
+2016,Kherson cartridges,3299.0
+2017,Kherson cartridges,6117.0
+2018,Kherson cartridges,39807.0
+2019,Kherson cartridges,6124.0
+2020,Kherson cartridges,4992.0
+2015,Khmelnytskiy cartridges,1255.0
+2016,Khmelnytskiy cartridges,994.0
+2017,Khmelnytskiy cartridges,9813.0
+2018,Khmelnytskiy cartridges,3994.0
+2019,Khmelnytskiy cartridges,3177.0
+2020,Khmelnytskiy cartridges,3396.0
+2015,Cherkasy cartridges,2972.0
+2016,Cherkasy cartridges,4619.0
+2017,Cherkasy cartridges,3514.0
+2018,Cherkasy cartridges,2549.0
+2019,Cherkasy cartridges,2751.0
+2020,Cherkasy cartridges,2832.0
+2015,Chernivtsi cartridges,911.0
+2016,Chernivtsi cartridges,192.0
+2017,Chernivtsi cartridges,1659.0
+2018,Chernivtsi cartridges,3528.0
+2019,Chernivtsi cartridges,1903.0
+2020,Chernivtsi cartridges,5448.0
+2015,Chernihiv cartridges,6811.0
+2016,Chernihiv cartridges,3158.0
+2017,Chernihiv cartridges,4728.0
+2018,Chernihiv cartridges,8429.0
+2019,Chernihiv cartridges,3654.0
+2020,Chernihiv cartridges,4413.0
+2015,Kyiv city cartridges,9808.0
+2016,Kyiv city cartridges,6164.0
+2017,Kyiv city cartridges,7394.0
+2018,Kyiv city cartridges,26130.0
+2019,Kyiv city cartridges,7799.0
+2020,Kyiv city cartridges,4673.0
+2015,Vinnytsya grenades,29.0
+2016,Vinnytsya grenades,39.0
+2017,Vinnytsya grenades,16.0
+2018,Vinnytsya grenades,36.0
+2019,Vinnytsya grenades,13.0
+2020,Vinnytsya grenades,18.0
+2015,Volyn grenades,28.0
+2016,Volyn grenades,713.0
+2017,Volyn grenades,31.0
+2018,Volyn grenades,26.0
+2019,Volyn grenades,20.0
+2020,Volyn grenades,232.0
+2015,Dnipropetrovsk grenades,339.0
+2016,Dnipropetrovsk grenades,98.0
+2017,Dnipropetrovsk grenades,208.0
+2018,Dnipropetrovsk grenades,237.0
+2019,Dnipropetrovsk grenades,262.0
+2020,Dnipropetrovsk grenades,135.0
+2015,Donetsk grenades,428.0
+2016,Donetsk grenades,395.0
+2017,Donetsk grenades,305.0
+2018,Donetsk grenades,283.0
+2019,Donetsk grenades,249.0
+2020,Donetsk grenades,84.0
+2015,Zhytomyr grenades,27.0
+2016,Zhytomyr grenades,35.0
+2017,Zhytomyr grenades,35.0
+2018,Zhytomyr grenades,14.0
+2019,Zhytomyr grenades,10.0
+2020,Zhytomyr grenades,9.0
+2015,Zakarpattya grenades,8.0
+2016,Zakarpattya grenades,9.0
+2017,Zakarpattya grenades,10.0
+2018,Zakarpattya grenades,15.0
+2019,Zakarpattya grenades,9.0
+2020,Zakarpattya grenades,20.0
+2015,Zaporizhya grenades,110.0
+2016,Zaporizhya grenades,731.0
+2017,Zaporizhya grenades,251.0
+2018,Zaporizhya grenades,115.0
+2019,Zaporizhya grenades,113.0
+2020,Zaporizhya grenades,26.0
+2015,Ivano-Frankivsk grenades,27.0
+2016,Ivano-Frankivsk grenades,31.0
+2017,Ivano-Frankivsk grenades,24.0
+2018,Ivano-Frankivsk grenades,69.0
+2019,Ivano-Frankivsk grenades,23.0
+2020,Ivano-Frankivsk grenades,20.0
+2015,Kyiv grenades,32.0
+2016,Kyiv grenades,41.0
+2017,Kyiv grenades,136.0
+2018,Kyiv grenades,43.0
+2019,Kyiv grenades,58.0
+2020,Kyiv grenades,39.0
+2015,Kirovohrad grenades,74.0
+2016,Kirovohrad grenades,13.0
+2017,Kirovohrad grenades,16.0
+2018,Kirovohrad grenades,53.0
+2019,Kirovohrad grenades,49.0
+2020,Kirovohrad grenades,41.0
+2015,Luhansk grenades,214.0
+2016,Luhansk grenades,123.0
+2017,Luhansk grenades,216.0
+2018,Luhansk grenades,205.0
+2019,Luhansk grenades,109.0
+2020,Luhansk grenades,135.0
+2015,Lviv grenades,17.0
+2016,Lviv grenades,13.0
+2017,Lviv grenades,42.0
+2018,Lviv grenades,34.0
+2019,Lviv grenades,34.0
+2020,Lviv grenades,15.0
+2015,Mykolayiv grenades,61.0
+2016,Mykolayiv grenades,18.0
+2017,Mykolayiv grenades,33.0
+2018,Mykolayiv grenades,41.0
+2019,Mykolayiv grenades,32.0
+2020,Mykolayiv grenades,13.0
+2015,Odesa grenades,38.0
+2016,Odesa grenades,20.0
+2017,Odesa grenades,22.0
+2018,Odesa grenades,46.0
+2019,Odesa grenades,73.0
+2020,Odesa grenades,52.0
+2015,Poltava grenades,44.0
+2016,Poltava grenades,47.0
+2017,Poltava grenades,57.0
+2018,Poltava grenades,35.0
+2019,Poltava grenades,34.0
+2020,Poltava grenades,16.0
+2015,Rivne grenades,62.0
+2016,Rivne grenades,61.0
+2017,Rivne grenades,53.0
+2018,Rivne grenades,82.0
+2019,Rivne grenades,211.0
+2020,Rivne grenades,114.0
+2015,Sumy grenades,92.0
+2016,Sumy grenades,15.0
+2017,Sumy grenades,44.0
+2018,Sumy grenades,33.0
+2019,Sumy grenades,9.0
+2020,Sumy grenades,11.0
+2015,Ternopil grenades,18.0
+2016,Ternopil grenades,16.0
+2017,Ternopil grenades,33.0
+2018,Ternopil grenades,36.0
+2019,Ternopil grenades,26.0
+2020,Ternopil grenades,24.0
+2015,Kharkiv grenades,247.0
+2016,Kharkiv grenades,81.0
+2017,Kharkiv grenades,117.0
+2018,Kharkiv grenades,149.0
+2019,Kharkiv grenades,162.0
+2020,Kharkiv grenades,115.0
+2015,Kherson grenades,23.0
+2016,Kherson grenades,30.0
+2017,Kherson grenades,48.0
+2018,Kherson grenades,123.0
+2019,Kherson grenades,35.0
+2020,Kherson grenades,28.0
+2015,Khmelnytskiy grenades,16.0
+2016,Khmelnytskiy grenades,8.0
+2017,Khmelnytskiy grenades,24.0
+2018,Khmelnytskiy grenades,26.0
+2019,Khmelnytskiy grenades,199.0
+2020,Khmelnytskiy grenades,8.0
+2015,Cherkasy grenades,37.0
+2016,Cherkasy grenades,44.0
+2017,Cherkasy grenades,54.0
+2018,Cherkasy grenades,51.0
+2019,Cherkasy grenades,35.0
+2020,Cherkasy grenades,19.0
+2015,Chernivtsi grenades,10.0
+2016,Chernivtsi grenades,4.0
+2017,Chernivtsi grenades,9.0
+2018,Chernivtsi grenades,10.0
+2019,Chernivtsi grenades,53.0
+2020,Chernivtsi grenades,7.0
+2015,Chernihiv grenades,44.0
+2016,Chernihiv grenades,26.0
+2017,Chernihiv grenades,13.0
+2018,Chernihiv grenades,47.0
+2019,Chernihiv grenades,18.0
+2020,Chernihiv grenades,18.0
+2015,Kyiv city grenades,42.0
+2016,Kyiv city grenades,86.0
+2017,Kyiv city grenades,136.0
+2018,Kyiv city grenades,109.0
+2019,Kyiv city grenades,53.0
+2020,Kyiv city grenades,29.0
+2015,Vinnytsya mines,1.0
+2016,Vinnytsya mines,
+2017,Vinnytsya mines,
+2018,Vinnytsya mines,1.0
+2019,Vinnytsya mines,
+2020,Vinnytsya mines,
+2015,Volyn mines,
+2016,Volyn mines,15.0
+2017,Volyn mines,8.0
+2018,Volyn mines,
+2019,Volyn mines,
+2020,Volyn mines,10.0
+2015,Dnipropetrovsk mines,3.0
+2016,Dnipropetrovsk mines,
+2017,Dnipropetrovsk mines,2.0
+2018,Dnipropetrovsk mines,2.0
+2019,Dnipropetrovsk mines,4.0
+2020,Dnipropetrovsk mines,1.0
+2015,Donetsk mines,6.0
+2016,Donetsk mines,5.0
+2017,Donetsk mines,3.0
+2018,Donetsk mines,4.0
+2019,Donetsk mines,4.0
+2020,Donetsk mines,
+2015,Zhytomyr mines,
+2016,Zhytomyr mines,2.0
+2017,Zhytomyr mines,1.0
+2018,Zhytomyr mines,1.0
+2019,Zhytomyr mines,
+2020,Zhytomyr mines,
+2015,Zakarpattya mines,
+2016,Zakarpattya mines,
+2017,Zakarpattya mines,
+2018,Zakarpattya mines,
+2019,Zakarpattya mines,
+2020,Zakarpattya mines,
+2015,Zaporizhya mines,
+2016,Zaporizhya mines,8.0
+2017,Zaporizhya mines,1.0
+2018,Zaporizhya mines,
+2019,Zaporizhya mines,
+2020,Zaporizhya mines,3.0
+2015,Ivano-Frankivsk mines,
+2016,Ivano-Frankivsk mines,
+2017,Ivano-Frankivsk mines,2.0
+2018,Ivano-Frankivsk mines,4.0
+2019,Ivano-Frankivsk mines,
+2020,Ivano-Frankivsk mines,
+2015,Kyiv mines,
+2016,Kyiv mines,
+2017,Kyiv mines,
+2018,Kyiv mines,
+2019,Kyiv mines,
+2020,Kyiv mines,
+2015,Kirovohrad mines,
+2016,Kirovohrad mines,
+2017,Kirovohrad mines,11.0
+2018,Kirovohrad mines,3.0
+2019,Kirovohrad mines,2.0
+2020,Kirovohrad mines,
+2015,Luhansk mines,3.0
+2016,Luhansk mines,
+2017,Luhansk mines,2.0
+2018,Luhansk mines,5.0
+2019,Luhansk mines,1.0
+2020,Luhansk mines,1.0
+2015,Lviv mines,
+2016,Lviv mines,
+2017,Lviv mines,
+2018,Lviv mines,
+2019,Lviv mines,
+2020,Lviv mines,
+2015,Mykolayiv mines,2.0
+2016,Mykolayiv mines,
+2017,Mykolayiv mines,
+2018,Mykolayiv mines,
+2019,Mykolayiv mines,1.0
+2020,Mykolayiv mines,
+2015,Odesa mines,
+2016,Odesa mines,
+2017,Odesa mines,
+2018,Odesa mines,1.0
+2019,Odesa mines,1.0
+2020,Odesa mines,
+2015,Poltava mines,
+2016,Poltava mines,
+2017,Poltava mines,
+2018,Poltava mines,
+2019,Poltava mines,1.0
+2020,Poltava mines,
+2015,Rivne mines,
+2016,Rivne mines,1.0
+2017,Rivne mines,2.0
+2018,Rivne mines,5.0
+2019,Rivne mines,15.0
+2020,Rivne mines,1.0
+2015,Sumy mines,1.0
+2016,Sumy mines,20.0
+2017,Sumy mines,
+2018,Sumy mines,
+2019,Sumy mines,10.0
+2020,Sumy mines,
+2015,Ternopil mines,
+2016,Ternopil mines,
+2017,Ternopil mines,
+2018,Ternopil mines,
+2019,Ternopil mines,
+2020,Ternopil mines,
+2015,Kharkiv mines,4.0
+2016,Kharkiv mines,10.0
+2017,Kharkiv mines,10.0
+2018,Kharkiv mines,11.0
+2019,Kharkiv mines,39.0
+2020,Kharkiv mines,8.0
+2015,Kherson mines,
+2016,Kherson mines,
+2017,Kherson mines,7.0
+2018,Kherson mines,2.0
+2019,Kherson mines,1.0
+2020,Kherson mines,
+2015,Khmelnytskiy mines,
+2016,Khmelnytskiy mines,
+2017,Khmelnytskiy mines,
+2018,Khmelnytskiy mines,
+2019,Khmelnytskiy mines,
+2020,Khmelnytskiy mines,
+2015,Cherkasy mines,6.0
+2016,Cherkasy mines,
+2017,Cherkasy mines,8.0
+2018,Cherkasy mines,
+2019,Cherkasy mines,5.0
+2020,Cherkasy mines,
+2015,Chernivtsi mines,
+2016,Chernivtsi mines,
+2017,Chernivtsi mines,
+2018,Chernivtsi mines,
+2019,Chernivtsi mines,
+2020,Chernivtsi mines,
+2015,Chernihiv mines,
+2016,Chernihiv mines,
+2017,Chernihiv mines,
+2018,Chernihiv mines,
+2019,Chernihiv mines,
+2020,Chernihiv mines,
+2015,Kyiv city mines,
+2016,Kyiv city mines,
+2017,Kyiv city mines,
+2018,Kyiv city mines,9.0
+2019,Kyiv city mines,
+2020,Kyiv city mines,
+2015,Vinnytsya improvised explosive devices,
+2016,Vinnytsya improvised explosive devices,
+2017,Vinnytsya improvised explosive devices,1.0
+2018,Vinnytsya improvised explosive devices,
+2019,Vinnytsya improvised explosive devices,
+2020,Vinnytsya improvised explosive devices,
+2015,Volyn improvised explosive devices,
+2016,Volyn improvised explosive devices,
+2017,Volyn improvised explosive devices,
+2018,Volyn improvised explosive devices,
+2019,Volyn improvised explosive devices,1.0
+2020,Volyn improvised explosive devices,
+2015,Dnipropetrovsk improvised explosive devices,29.0
+2016,Dnipropetrovsk improvised explosive devices,1.0
+2017,Dnipropetrovsk improvised explosive devices,1.0
+2018,Dnipropetrovsk improvised explosive devices,5.0
+2019,Dnipropetrovsk improvised explosive devices,10.0
+2020,Dnipropetrovsk improvised explosive devices,6.0
+2015,Donetsk improvised explosive devices,2.0
+2016,Donetsk improvised explosive devices,3.0
+2017,Donetsk improvised explosive devices,3.0
+2018,Donetsk improvised explosive devices,8.0
+2019,Donetsk improvised explosive devices,3.0
+2020,Donetsk improvised explosive devices,3.0
+2015,Zhytomyr improvised explosive devices,
+2016,Zhytomyr improvised explosive devices,
+2017,Zhytomyr improvised explosive devices,
+2018,Zhytomyr improvised explosive devices,7.0
+2019,Zhytomyr improvised explosive devices,1.0
+2020,Zhytomyr improvised explosive devices,2.0
+2015,Zakarpattya improvised explosive devices,3.0
+2016,Zakarpattya improvised explosive devices,
+2017,Zakarpattya improvised explosive devices,
+2018,Zakarpattya improvised explosive devices,
+2019,Zakarpattya improvised explosive devices,
+2020,Zakarpattya improvised explosive devices,
+2015,Zaporizhya improvised explosive devices,8.0
+2016,Zaporizhya improvised explosive devices,4.0
+2017,Zaporizhya improvised explosive devices,
+2018,Zaporizhya improvised explosive devices,1.0
+2019,Zaporizhya improvised explosive devices,3.0
+2020,Zaporizhya improvised explosive devices,2.0
+2015,Ivano-Frankivsk improvised explosive devices,
+2016,Ivano-Frankivsk improvised explosive devices,2.0
+2017,Ivano-Frankivsk improvised explosive devices,1.0
+2018,Ivano-Frankivsk improvised explosive devices,
+2019,Ivano-Frankivsk improvised explosive devices,
+2020,Ivano-Frankivsk improvised explosive devices,
+2015,Kyiv improvised explosive devices,
+2016,Kyiv improvised explosive devices,
+2017,Kyiv improvised explosive devices,1.0
+2018,Kyiv improvised explosive devices,1.0
+2019,Kyiv improvised explosive devices,2.0
+2020,Kyiv improvised explosive devices,
+2015,Kirovohrad improvised explosive devices,1.0
+2016,Kirovohrad improvised explosive devices,4.0
+2017,Kirovohrad improvised explosive devices,
+2018,Kirovohrad improvised explosive devices,3.0
+2019,Kirovohrad improvised explosive devices,
+2020,Kirovohrad improvised explosive devices,18.0
+2015,Luhansk improvised explosive devices,4.0
+2016,Luhansk improvised explosive devices,1.0
+2017,Luhansk improvised explosive devices,1.0
+2018,Luhansk improvised explosive devices,5.0
+2019,Luhansk improvised explosive devices,
+2020,Luhansk improvised explosive devices,3.0
+2015,Lviv improvised explosive devices,
+2016,Lviv improvised explosive devices,
+2017,Lviv improvised explosive devices,25.0
+2018,Lviv improvised explosive devices,
+2019,Lviv improvised explosive devices,1.0
+2020,Lviv improvised explosive devices,
+2015,Mykolayiv improvised explosive devices,1.0
+2016,Mykolayiv improvised explosive devices,3.0
+2017,Mykolayiv improvised explosive devices,1.0
+2018,Mykolayiv improvised explosive devices,
+2019,Mykolayiv improvised explosive devices,
+2020,Mykolayiv improvised explosive devices,
+2015,Odesa improvised explosive devices,1.0
+2016,Odesa improvised explosive devices,23.0
+2017,Odesa improvised explosive devices,1.0
+2018,Odesa improvised explosive devices,
+2019,Odesa improvised explosive devices,2.0
+2020,Odesa improvised explosive devices,
+2015,Poltava improvised explosive devices,
+2016,Poltava improvised explosive devices,
+2017,Poltava improvised explosive devices,
+2018,Poltava improvised explosive devices,7.0
+2019,Poltava improvised explosive devices,
+2020,Poltava improvised explosive devices,1.0
+2015,Rivne improvised explosive devices,1.0
+2016,Rivne improvised explosive devices,
+2017,Rivne improvised explosive devices,1.0
+2018,Rivne improvised explosive devices,
+2019,Rivne improvised explosive devices,4.0
+2020,Rivne improvised explosive devices,1.0
+2015,Sumy improvised explosive devices,2.0
+2016,Sumy improvised explosive devices,
+2017,Sumy improvised explosive devices,1.0
+2018,Sumy improvised explosive devices,
+2019,Sumy improvised explosive devices,
+2020,Sumy improvised explosive devices,
+2015,Ternopil improvised explosive devices,
+2016,Ternopil improvised explosive devices,
+2017,Ternopil improvised explosive devices,
+2018,Ternopil improvised explosive devices,1.0
+2019,Ternopil improvised explosive devices,11.0
+2020,Ternopil improvised explosive devices,
+2015,Kharkiv improvised explosive devices,4.0
+2016,Kharkiv improvised explosive devices,
+2017,Kharkiv improvised explosive devices,6.0
+2018,Kharkiv improvised explosive devices,3.0
+2019,Kharkiv improvised explosive devices,2.0
+2020,Kharkiv improvised explosive devices,72.0
+2015,Kherson improvised explosive devices,
+2016,Kherson improvised explosive devices,1.0
+2017,Kherson improvised explosive devices,
+2018,Kherson improvised explosive devices,2.0
+2019,Kherson improvised explosive devices,1.0
+2020,Kherson improvised explosive devices,2.0
+2015,Khmelnytskiy improvised explosive devices,
+2016,Khmelnytskiy improvised explosive devices,
+2017,Khmelnytskiy improvised explosive devices,2.0
+2018,Khmelnytskiy improvised explosive devices,3.0
+2019,Khmelnytskiy improvised explosive devices,
+2020,Khmelnytskiy improvised explosive devices,
+2015,Cherkasy improvised explosive devices,1.0
+2016,Cherkasy improvised explosive devices,
+2017,Cherkasy improvised explosive devices,
+2018,Cherkasy improvised explosive devices,1.0
+2019,Cherkasy improvised explosive devices,
+2020,Cherkasy improvised explosive devices,1.0
+2015,Chernivtsi improvised explosive devices,
+2016,Chernivtsi improvised explosive devices,
+2017,Chernivtsi improvised explosive devices,
+2018,Chernivtsi improvised explosive devices,
+2019,Chernivtsi improvised explosive devices,
+2020,Chernivtsi improvised explosive devices,
+2015,Chernihiv improvised explosive devices,
+2016,Chernihiv improvised explosive devices,1.0
+2017,Chernihiv improvised explosive devices,1.0
+2018,Chernihiv improvised explosive devices,1.0
+2019,Chernihiv improvised explosive devices,
+2020,Chernihiv improvised explosive devices,
+2015,Kyiv city improvised explosive devices,1.0
+2016,Kyiv city improvised explosive devices,
+2017,Kyiv city improvised explosive devices,1.0
+2018,Kyiv city improvised explosive devices,12.0
+2019,Kyiv city improvised explosive devices,5.0
+2020,Kyiv city improvised explosive devices,13.0

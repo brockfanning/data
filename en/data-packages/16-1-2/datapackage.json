@@ -1,0 +1,60 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "human trafficking or other illicit transactions involving the transfer of human beings. art. 149",
+                "human trafficking or other illicit transactions involving the transfer of human beings. art. 149.adolescents",
+                "human trafficking or other illicit transactions involving the transfer of human beings. art. 149.females",
+                "human trafficking or other illicit transactions involving the transfer of human beings. art. 149.young (under 14)",
+                "intentional grievous bodily harm. art. 121",
+                "intentional grievous bodily harm. art. 121.adolescents",
+                "intentional grievous bodily harm. art. 121.females",
+                "intentional grievous bodily harm. art. 121.young (under 14)",
+                "intentional homicide (and relevant attempts). articles 115-118",
+                "intentional homicide (and relevant attempts). articles 115-118.adolescents",
+                "intentional homicide (and relevant attempts). articles 115-118.females",
+                "intentional homicide (and relevant attempts). articles 115-118.young (under 14)",
+                "rape (and relevant attempts). art. 152",
+                "rape (and relevant attempts). art. 152.adolescents",
+                "rape (and relevant attempts). art. 152.females",
+                "rape (and relevant attempts). art. 152.young (under 14)",
+                "total number of victims of crimes. art. of CCU",
+                "total number of victims of crimes. art. of CCU.adolescents",
+                "total number of victims of crimes. art. of CCU.females",
+                "total number of victims of crimes. art. of CCU.young (under 14)"
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-1-2",
+  "title": "16-1-2"
+}

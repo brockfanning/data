@@ -37,6 +37,40 @@
       "title": "8-1-1"
     },
     {
+      "path": "16-6-1/data.csv",
+      "name": "16-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "16-6-1"
+    },
+    {
       "path": "1-2-1/data.csv",
       "name": "1-2-1",
       "profile": "tabular-data-resource",
@@ -237,6 +271,340 @@
         ]
       },
       "title": "2-1-3"
+    },
+    {
+      "path": "16-9-1/data.csv",
+      "name": "16-9-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "civic behavior.Dnipropetrovsk region.18-35 years",
+                "civic behavior.Dnipropetrovsk region.36-60 years",
+                "civic behavior.Dnipropetrovsk region.61 years and older",
+                "civic behavior.Dnipropetrovsk region.female",
+                "civic behavior.Dnipropetrovsk region.male",
+                "civic behavior.Donetsk region.18-35 years",
+                "civic behavior.Donetsk region.36-60 years",
+                "civic behavior.Donetsk region.61 years and older",
+                "civic behavior.Donetsk region.female",
+                "civic behavior.Donetsk region.male",
+                "civic behavior.Kharkiv region.18-35 years",
+                "civic behavior.Kharkiv region.36-60 years",
+                "civic behavior.Kharkiv region.61 years and older",
+                "civic behavior.Kharkiv region.female",
+                "civic behavior.Kharkiv region.male",
+                "civic behavior.Luhansk region.18-35 years",
+                "civic behavior.Luhansk region.36-60 years",
+                "civic behavior.Luhansk region.61 years and older",
+                "civic behavior.Luhansk region.female",
+                "civic behavior.Luhansk region.male",
+                "civic behavior.Zaporizhya region.18-35 years",
+                "civic behavior.Zaporizhya region.36-60 years",
+                "civic behavior.Zaporizhya region.61 years and older",
+                "civic behavior.Zaporizhya region.female",
+                "civic behavior.Zaporizhya region.male",
+                "cooperation in the community.Dnipropetrovsk region.18-35 years",
+                "cooperation in the community.Dnipropetrovsk region.36-60 years",
+                "cooperation in the community.Dnipropetrovsk region.61 years and older",
+                "cooperation in the community.Dnipropetrovsk region.female",
+                "cooperation in the community.Dnipropetrovsk region.male",
+                "cooperation in the community.Donetsk region.18-35 years",
+                "cooperation in the community.Donetsk region.36-60 years",
+                "cooperation in the community.Donetsk region.61 years and older",
+                "cooperation in the community.Donetsk region.female",
+                "cooperation in the community.Donetsk region.male",
+                "cooperation in the community.Kharkiv region.18-35 years",
+                "cooperation in the community.Kharkiv region.36-60 years",
+                "cooperation in the community.Kharkiv region.61 years and older",
+                "cooperation in the community.Kharkiv region.female",
+                "cooperation in the community.Kharkiv region.male",
+                "cooperation in the community.Luhansk region.18-35 years",
+                "cooperation in the community.Luhansk region.36-60 years",
+                "cooperation in the community.Luhansk region.61 years and older",
+                "cooperation in the community.Luhansk region.female",
+                "cooperation in the community.Luhansk region.male",
+                "cooperation in the community.Zaporizhya region.18-35 years",
+                "cooperation in the community.Zaporizhya region.36-60 years",
+                "cooperation in the community.Zaporizhya region.61 years and older",
+                "cooperation in the community.Zaporizhya region.female",
+                "cooperation in the community.Zaporizhya region.male",
+                "political security.Dnipropetrovsk region.18-35 years",
+                "political security.Dnipropetrovsk region.36-60 years",
+                "political security.Dnipropetrovsk region.61 years and older",
+                "political security.Dnipropetrovsk region.female",
+                "political security.Dnipropetrovsk region.male",
+                "political security.Donetsk region.18-35 years",
+                "political security.Donetsk region.36-60 years",
+                "political security.Donetsk region.61 years and older",
+                "political security.Donetsk region.female",
+                "political security.Donetsk region.male",
+                "political security.Kharkiv region.18-35 years",
+                "political security.Kharkiv region.36-60 years",
+                "political security.Kharkiv region.61 years and older",
+                "political security.Kharkiv region.female",
+                "political security.Kharkiv region.male",
+                "political security.Luhansk region.18-35 years",
+                "political security.Luhansk region.36-60 years",
+                "political security.Luhansk region.61 years and older",
+                "political security.Luhansk region.female",
+                "political security.Luhansk region.male",
+                "political security.Zaporizhya region.18-35 years",
+                "political security.Zaporizhya region.36-60 years",
+                "political security.Zaporizhya region.61 years and older",
+                "political security.Zaporizhya region.female",
+                "political security.Zaporizhya region.male",
+                "propensity to migrate.Dnipropetrovsk region.18-35 years",
+                "propensity to migrate.Dnipropetrovsk region.36-60 years",
+                "propensity to migrate.Dnipropetrovsk region.61 years and older",
+                "propensity to migrate.Dnipropetrovsk region.female",
+                "propensity to migrate.Dnipropetrovsk region.male",
+                "propensity to migrate.Donetsk region.18-35 years",
+                "propensity to migrate.Donetsk region.36-60 years",
+                "propensity to migrate.Donetsk region.61 years and older",
+                "propensity to migrate.Donetsk region.female",
+                "propensity to migrate.Donetsk region.male",
+                "propensity to migrate.Kharkiv region.18-35 years",
+                "propensity to migrate.Kharkiv region.36-60 years",
+                "propensity to migrate.Kharkiv region.61 years and older",
+                "propensity to migrate.Kharkiv region.female",
+                "propensity to migrate.Kharkiv region.male",
+                "propensity to migrate.Luhansk region.18-35 years",
+                "propensity to migrate.Luhansk region.36-60 years",
+                "propensity to migrate.Luhansk region.61 years and older",
+                "propensity to migrate.Luhansk region.female",
+                "propensity to migrate.Luhansk region.male",
+                "propensity to migrate.Zaporizhya region.18-35 years",
+                "propensity to migrate.Zaporizhya region.36-60 years",
+                "propensity to migrate.Zaporizhya region.61 years and older",
+                "propensity to migrate.Zaporizhya region.female",
+                "propensity to migrate.Zaporizhya region.male",
+                "psycho-social activity.Dnipropetrovsk region.18-35 years",
+                "psycho-social activity.Dnipropetrovsk region.36-60 years",
+                "psycho-social activity.Dnipropetrovsk region.61 years and older",
+                "psycho-social activity.Dnipropetrovsk region.female",
+                "psycho-social activity.Dnipropetrovsk region.male",
+                "psycho-social activity.Donetsk region.18-35 years",
+                "psycho-social activity.Donetsk region.36-60 years",
+                "psycho-social activity.Donetsk region.61 years and older",
+                "psycho-social activity.Donetsk region.female",
+                "psycho-social activity.Donetsk region.male",
+                "psycho-social activity.Kharkiv region.18-35 years",
+                "psycho-social activity.Kharkiv region.36-60 years",
+                "psycho-social activity.Kharkiv region.61 years and older",
+                "psycho-social activity.Kharkiv region.female",
+                "psycho-social activity.Kharkiv region.male",
+                "psycho-social activity.Luhansk region.18-35 years",
+                "psycho-social activity.Luhansk region.36-60 years",
+                "psycho-social activity.Luhansk region.61 years and older",
+                "psycho-social activity.Luhansk region.female",
+                "psycho-social activity.Luhansk region.male",
+                "psycho-social activity.Zaporizhya region.18-35 years",
+                "psycho-social activity.Zaporizhya region.36-60 years",
+                "psycho-social activity.Zaporizhya region.61 years and older",
+                "psycho-social activity.Zaporizhya region.female",
+                "psycho-social activity.Zaporizhya region.male",
+                "psycho-social adaptability.Dnipropetrovsk region.18-35 years",
+                "psycho-social adaptability.Dnipropetrovsk region.36-60 years",
+                "psycho-social adaptability.Dnipropetrovsk region.61 years and older",
+                "psycho-social adaptability.Dnipropetrovsk region.female",
+                "psycho-social adaptability.Dnipropetrovsk region.male",
+                "psycho-social adaptability.Donetsk region.18-35 years",
+                "psycho-social adaptability.Donetsk region.36-60 years",
+                "psycho-social adaptability.Donetsk region.61 years and older",
+                "psycho-social adaptability.Donetsk region.female",
+                "psycho-social adaptability.Donetsk region.male",
+                "psycho-social adaptability.Kharkiv region.18-35 years",
+                "psycho-social adaptability.Kharkiv region.36-60 years",
+                "psycho-social adaptability.Kharkiv region.61 years and older",
+                "psycho-social adaptability.Kharkiv region.female",
+                "psycho-social adaptability.Kharkiv region.male",
+                "psycho-social adaptability.Luhansk region.18-35 years",
+                "psycho-social adaptability.Luhansk region.36-60 years",
+                "psycho-social adaptability.Luhansk region.61 years and older",
+                "psycho-social adaptability.Luhansk region.female",
+                "psycho-social adaptability.Luhansk region.male",
+                "psycho-social adaptability.Zaporizhya region.18-35 years",
+                "psycho-social adaptability.Zaporizhya region.36-60 years",
+                "psycho-social adaptability.Zaporizhya region.61 years and older",
+                "psycho-social adaptability.Zaporizhya region.female",
+                "psycho-social adaptability.Zaporizhya region.male",
+                "readiness for dialogue.Dnipropetrovsk region.18-35 years",
+                "readiness for dialogue.Dnipropetrovsk region.36-60 years",
+                "readiness for dialogue.Dnipropetrovsk region.61 years and older",
+                "readiness for dialogue.Dnipropetrovsk region.female",
+                "readiness for dialogue.Dnipropetrovsk region.male",
+                "readiness for dialogue.Donetsk region.18-35 years",
+                "readiness for dialogue.Donetsk region.36-60 years",
+                "readiness for dialogue.Donetsk region.61 years and older",
+                "readiness for dialogue.Donetsk region.female",
+                "readiness for dialogue.Donetsk region.male",
+                "readiness for dialogue.Kharkiv region.18-35 years",
+                "readiness for dialogue.Kharkiv region.36-60 years",
+                "readiness for dialogue.Kharkiv region.61 years and older",
+                "readiness for dialogue.Kharkiv region.female",
+                "readiness for dialogue.Kharkiv region.male",
+                "readiness for dialogue.Luhansk region.18-35 years",
+                "readiness for dialogue.Luhansk region.36-60 years",
+                "readiness for dialogue.Luhansk region.61 years and older",
+                "readiness for dialogue.Luhansk region.female",
+                "readiness for dialogue.Luhansk region.male",
+                "readiness for dialogue.Zaporizhya region.18-35 years",
+                "readiness for dialogue.Zaporizhya region.36-60 years",
+                "readiness for dialogue.Zaporizhya region.61 years and older",
+                "readiness for dialogue.Zaporizhya region.female",
+                "readiness for dialogue.Zaporizhya region.male",
+                "reducing negative migration trends.Dnipropetrovsk region.18-35 years",
+                "reducing negative migration trends.Dnipropetrovsk region.36-60 years",
+                "reducing negative migration trends.Dnipropetrovsk region.61 years and older",
+                "reducing negative migration trends.Dnipropetrovsk region.female",
+                "reducing negative migration trends.Dnipropetrovsk region.male",
+                "reducing negative migration trends.Donetsk region.18-35 years",
+                "reducing negative migration trends.Donetsk region.36-60 years",
+                "reducing negative migration trends.Donetsk region.61 years and older",
+                "reducing negative migration trends.Donetsk region.female",
+                "reducing negative migration trends.Donetsk region.male",
+                "reducing negative migration trends.Kharkiv region.18-35 years",
+                "reducing negative migration trends.Kharkiv region.36-60 years",
+                "reducing negative migration trends.Kharkiv region.61 years and older",
+                "reducing negative migration trends.Kharkiv region.female",
+                "reducing negative migration trends.Kharkiv region.male",
+                "reducing negative migration trends.Luhansk region.18-35 years",
+                "reducing negative migration trends.Luhansk region.36-60 years",
+                "reducing negative migration trends.Luhansk region.61 years and older",
+                "reducing negative migration trends.Luhansk region.female",
+                "reducing negative migration trends.Luhansk region.male",
+                "reducing negative migration trends.Zaporizhya region.18-35 years",
+                "reducing negative migration trends.Zaporizhya region.36-60 years",
+                "reducing negative migration trends.Zaporizhya region.61 years and older",
+                "reducing negative migration trends.Zaporizhya region.female",
+                "reducing negative migration trends.Zaporizhya region.male",
+                "relations between groups.Dnipropetrovsk region.18-35 years",
+                "relations between groups.Dnipropetrovsk region.36-60 years",
+                "relations between groups.Dnipropetrovsk region.61 years and older",
+                "relations between groups.Dnipropetrovsk region.female",
+                "relations between groups.Dnipropetrovsk region.male",
+                "relations between groups.Donetsk region.18-35 years",
+                "relations between groups.Donetsk region.36-60 years",
+                "relations between groups.Donetsk region.61 years and older",
+                "relations between groups.Donetsk region.female",
+                "relations between groups.Donetsk region.male",
+                "relations between groups.Kharkiv region.18-35 years",
+                "relations between groups.Kharkiv region.36-60 years",
+                "relations between groups.Kharkiv region.61 years and older",
+                "relations between groups.Kharkiv region.female",
+                "relations between groups.Kharkiv region.male",
+                "relations between groups.Luhansk region.18-35 years",
+                "relations between groups.Luhansk region.36-60 years",
+                "relations between groups.Luhansk region.61 years and older",
+                "relations between groups.Luhansk region.female",
+                "relations between groups.Luhansk region.male",
+                "relations between groups.Zaporizhya region.18-35 years",
+                "relations between groups.Zaporizhya region.36-60 years",
+                "relations between groups.Zaporizhya region.61 years and older",
+                "relations between groups.Zaporizhya region.female",
+                "relations between groups.Zaporizhya region.male",
+                "relations with government and safety.Dnipropetrovsk region.18-35 years",
+                "relations with government and safety.Dnipropetrovsk region.36-60 years",
+                "relations with government and safety.Dnipropetrovsk region.61 years and older",
+                "relations with government and safety.Dnipropetrovsk region.female",
+                "relations with government and safety.Dnipropetrovsk region.male",
+                "relations with government and safety.Donetsk region.18-35 years",
+                "relations with government and safety.Donetsk region.36-60 years",
+                "relations with government and safety.Donetsk region.61 years and older",
+                "relations with government and safety.Donetsk region.female",
+                "relations with government and safety.Donetsk region.male",
+                "relations with government and safety.Kharkiv region.18-35 years",
+                "relations with government and safety.Kharkiv region.36-60 years",
+                "relations with government and safety.Kharkiv region.61 years and older",
+                "relations with government and safety.Kharkiv region.female",
+                "relations with government and safety.Kharkiv region.male",
+                "relations with government and safety.Luhansk region.18-35 years",
+                "relations with government and safety.Luhansk region.36-60 years",
+                "relations with government and safety.Luhansk region.61 years and older",
+                "relations with government and safety.Luhansk region.female",
+                "relations with government and safety.Luhansk region.male",
+                "relations with government and safety.Zaporizhya region.18-35 years",
+                "relations with government and safety.Zaporizhya region.36-60 years",
+                "relations with government and safety.Zaporizhya region.61 years and older",
+                "relations with government and safety.Zaporizhya region.female",
+                "relations with government and safety.Zaporizhya region.male",
+                "social cohesion and sense of ownership.Dnipropetrovsk region.18-35 years",
+                "social cohesion and sense of ownership.Dnipropetrovsk region.36-60 years",
+                "social cohesion and sense of ownership.Dnipropetrovsk region.61 years and older",
+                "social cohesion and sense of ownership.Dnipropetrovsk region.female",
+                "social cohesion and sense of ownership.Dnipropetrovsk region.male",
+                "social cohesion and sense of ownership.Donetsk region.18-35 years",
+                "social cohesion and sense of ownership.Donetsk region.36-60 years",
+                "social cohesion and sense of ownership.Donetsk region.61 years and older",
+                "social cohesion and sense of ownership.Donetsk region.female",
+                "social cohesion and sense of ownership.Donetsk region.male",
+                "social cohesion and sense of ownership.Kharkiv region.18-35 years",
+                "social cohesion and sense of ownership.Kharkiv region.36-60 years",
+                "social cohesion and sense of ownership.Kharkiv region.61 years and older",
+                "social cohesion and sense of ownership.Kharkiv region.female",
+                "social cohesion and sense of ownership.Kharkiv region.male",
+                "social cohesion and sense of ownership.Luhansk region.18-35 years",
+                "social cohesion and sense of ownership.Luhansk region.36-60 years",
+                "social cohesion and sense of ownership.Luhansk region.61 years and older",
+                "social cohesion and sense of ownership.Luhansk region.female",
+                "social cohesion and sense of ownership.Luhansk region.male",
+                "social cohesion and sense of ownership.Zaporizhya region.18-35 years",
+                "social cohesion and sense of ownership.Zaporizhya region.36-60 years",
+                "social cohesion and sense of ownership.Zaporizhya region.61 years and older",
+                "social cohesion and sense of ownership.Zaporizhya region.female",
+                "social cohesion and sense of ownership.Zaporizhya region.male",
+                "tolerance and socially responsible citizenship.Dnipropetrovsk region.18-35 years",
+                "tolerance and socially responsible citizenship.Dnipropetrovsk region.36-60 years",
+                "tolerance and socially responsible citizenship.Dnipropetrovsk region.61 years and older",
+                "tolerance and socially responsible citizenship.Dnipropetrovsk region.female",
+                "tolerance and socially responsible citizenship.Dnipropetrovsk region.male",
+                "tolerance and socially responsible citizenship.Donetsk region.18-35 years",
+                "tolerance and socially responsible citizenship.Donetsk region.36-60 years",
+                "tolerance and socially responsible citizenship.Donetsk region.61 years and older",
+                "tolerance and socially responsible citizenship.Donetsk region.female",
+                "tolerance and socially responsible citizenship.Donetsk region.male",
+                "tolerance and socially responsible citizenship.Kharkiv region.18-35 years",
+                "tolerance and socially responsible citizenship.Kharkiv region.36-60 years",
+                "tolerance and socially responsible citizenship.Kharkiv region.61 years and older",
+                "tolerance and socially responsible citizenship.Kharkiv region.female",
+                "tolerance and socially responsible citizenship.Kharkiv region.male",
+                "tolerance and socially responsible citizenship.Luhansk region.18-35 years",
+                "tolerance and socially responsible citizenship.Luhansk region.36-60 years",
+                "tolerance and socially responsible citizenship.Luhansk region.61 years and older",
+                "tolerance and socially responsible citizenship.Luhansk region.female",
+                "tolerance and socially responsible citizenship.Luhansk region.male",
+                "tolerance and socially responsible citizenship.Zaporizhya region.18-35 years",
+                "tolerance and socially responsible citizenship.Zaporizhya region.36-60 years",
+                "tolerance and socially responsible citizenship.Zaporizhya region.61 years and older",
+                "tolerance and socially responsible citizenship.Zaporizhya region.female",
+                "tolerance and socially responsible citizenship.Zaporizhya region.male"
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "16-9-1"
     },
     {
       "path": "14-1-1/data.csv",
@@ -605,6 +973,45 @@
         ]
       },
       "title": "7-1-3"
+    },
+    {
+      "path": "16-8-1/data.csv",
+      "name": "16-8-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "18-35 years",
+                "36-60 years",
+                "61 and older",
+                "female",
+                "male"
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "16-8-1"
     },
     {
       "path": "3-4-1/data.csv",
@@ -1075,6 +1482,99 @@
       "title": "11-1-1"
     },
     {
+      "path": "16-2-6/data.csv",
+      "name": "16-2-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "16-2-6"
+    },
+    {
+      "path": "17-3-1/data.csv",
+      "name": "17-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Cherkasy",
+                "Chernihiv",
+                "Chernivtsi",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Ivano-Frankivsk",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Kirovohrad",
+                "Kyiv",
+                "Kyiv city",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Vinnytsya",
+                "Volyn",
+                "Zakarpattya",
+                "Zaporizhya",
+                "Zhytomyr"
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "17-3-1"
+    },
+    {
       "path": "12-4-1/data.csv",
       "name": "12-4-1",
       "profile": "tabular-data-resource",
@@ -1107,6 +1607,40 @@
         ]
       },
       "title": "12-4-1"
+    },
+    {
+      "path": "17-1-2/data.csv",
+      "name": "17-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "17-1-2"
     },
     {
       "path": "7-1-1/data.csv",
@@ -1185,6 +1719,74 @@
       "title": "4-3-1"
     },
     {
+      "path": "16-2-5/data.csv",
+      "name": "16-2-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "16-2-5"
+    },
+    {
+      "path": "16-2-2/data.csv",
+      "name": "16-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "16-2-2"
+    },
+    {
       "path": "8-5-2/data.csv",
       "name": "8-5-2",
       "profile": "tabular-data-resource",
@@ -1242,6 +1844,86 @@
         ]
       },
       "title": "8-5-2"
+    },
+    {
+      "path": "16-5-1/data.csv",
+      "name": "16-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "cold weapons",
+                "grenade launchers and rocket systems",
+                "other firearms",
+                "rifled",
+                "smooth-bore"
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "16-5-1"
+    },
+    {
+      "path": "16-3-2/data.csv",
+      "name": "16-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "female",
+                "from 18 to 35 years",
+                "from 36 to 60 years",
+                "male",
+                "over 60 years",
+                "population",
+                "under 18 years"
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "16-3-2"
     },
     {
       "path": "10-3-1/data.csv",
@@ -1384,6 +2066,44 @@
       "title": "4-5-1"
     },
     {
+      "path": "16-1-3/data.csv",
+      "name": "16-1-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "adolescents",
+                "art. 152. total",
+                "females",
+                "young (under 14)"
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "16-1-3"
+    },
+    {
       "path": "6-2-2/data.csv",
       "name": "6-2-2",
       "profile": "tabular-data-resource",
@@ -1450,6 +2170,40 @@
         ]
       },
       "title": "5-4-2"
+    },
+    {
+      "path": "16-2-4/data.csv",
+      "name": "16-2-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "16-2-4"
     },
     {
       "path": "4-1-1/data.csv",
@@ -1572,6 +2326,43 @@
         ]
       },
       "title": "5-2-7"
+    },
+    {
+      "path": "16-5-3/data.csv",
+      "name": "16-5-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Illegal handling of weapons. ammunition or explosives. art. 263",
+                "Illegal manufacture. processing or repair of firearms. or tampering. illegal removal or alteration of their marking. or illicit manufacture of ammunition. explosives or explosive devices. art. 263-1",
+                "stealing. misappropriation. extortion of firearms. ammunition. explosives or radioactive materials. or acquisition by fraud or abuse of office. art. 262"
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "16-5-3"
     },
     {
       "path": "12-1-1/data.csv",
@@ -2575,6 +3366,44 @@
       "title": "3-5-2"
     },
     {
+      "path": "16-2-1/data.csv",
+      "name": "16-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "adolescents",
+                "art. 149. total",
+                "females",
+                "young (under 14)"
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "16-2-1"
+    },
+    {
       "path": "5-4-1/data.csv",
       "name": "5-4-1",
       "profile": "tabular-data-resource",
@@ -2716,6 +3545,60 @@
       "title": "6-5-1"
     },
     {
+      "path": "16-1-2/data.csv",
+      "name": "16-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "human trafficking or other illicit transactions involving the transfer of human beings. art. 149",
+                "human trafficking or other illicit transactions involving the transfer of human beings. art. 149.adolescents",
+                "human trafficking or other illicit transactions involving the transfer of human beings. art. 149.females",
+                "human trafficking or other illicit transactions involving the transfer of human beings. art. 149.young (under 14)",
+                "intentional grievous bodily harm. art. 121",
+                "intentional grievous bodily harm. art. 121.adolescents",
+                "intentional grievous bodily harm. art. 121.females",
+                "intentional grievous bodily harm. art. 121.young (under 14)",
+                "intentional homicide (and relevant attempts). articles 115-118",
+                "intentional homicide (and relevant attempts). articles 115-118.adolescents",
+                "intentional homicide (and relevant attempts). articles 115-118.females",
+                "intentional homicide (and relevant attempts). articles 115-118.young (under 14)",
+                "rape (and relevant attempts). art. 152",
+                "rape (and relevant attempts). art. 152.adolescents",
+                "rape (and relevant attempts). art. 152.females",
+                "rape (and relevant attempts). art. 152.young (under 14)",
+                "total number of victims of crimes. art. of CCU",
+                "total number of victims of crimes. art. of CCU.adolescents",
+                "total number of victims of crimes. art. of CCU.females",
+                "total number of victims of crimes. art. of CCU.young (under 14)"
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "16-1-2"
+    },
+    {
       "path": "3-4-3/data.csv",
       "name": "3-4-3",
       "profile": "tabular-data-resource",
@@ -2773,6 +3656,42 @@
         ]
       },
       "title": "3-4-3"
+    },
+    {
+      "path": "16-3-1/data.csv",
+      "name": "16-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "participants in court proceedings",
+                "population"
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "16-3-1"
     },
     {
       "path": "8-1-3/data.csv",
@@ -2910,6 +3829,169 @@
         ]
       },
       "title": "4-4-4"
+    },
+    {
+      "path": "16-5-2/data.csv",
+      "name": "16-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Cherkasy",
+                "Cherkasy cartridges",
+                "Cherkasy grenades",
+                "Cherkasy improvised explosive devices",
+                "Cherkasy mines",
+                "Chernihiv",
+                "Chernihiv cartridges",
+                "Chernihiv grenades",
+                "Chernihiv improvised explosive devices",
+                "Chernihiv mines",
+                "Chernivtsi",
+                "Chernivtsi cartridges",
+                "Chernivtsi grenades",
+                "Chernivtsi improvised explosive devices",
+                "Chernivtsi mines",
+                "Dnipropetrovsk",
+                "Dnipropetrovsk cartridges",
+                "Dnipropetrovsk grenades",
+                "Dnipropetrovsk improvised explosive devices",
+                "Dnipropetrovsk mines",
+                "Donetsk",
+                "Donetsk cartridges",
+                "Donetsk grenades",
+                "Donetsk improvised explosive devices",
+                "Donetsk mines",
+                "Ivano-Frankivsk",
+                "Ivano-Frankivsk cartridges",
+                "Ivano-Frankivsk grenades",
+                "Ivano-Frankivsk improvised explosive devices",
+                "Ivano-Frankivsk mines",
+                "Kharkiv",
+                "Kharkiv cartridges",
+                "Kharkiv grenades",
+                "Kharkiv improvised explosive devices",
+                "Kharkiv mines",
+                "Kherson",
+                "Kherson cartridges",
+                "Kherson grenades",
+                "Kherson improvised explosive devices",
+                "Kherson mines",
+                "Khmelnytskiy",
+                "Khmelnytskiy cartridges",
+                "Khmelnytskiy grenades",
+                "Khmelnytskiy improvised explosive devices",
+                "Khmelnytskiy mines",
+                "Kirovohrad",
+                "Kirovohrad cartridges",
+                "Kirovohrad grenades",
+                "Kirovohrad improvised explosive devices",
+                "Kirovohrad mines",
+                "Kyiv",
+                "Kyiv cartridges",
+                "Kyiv city",
+                "Kyiv city cartridges",
+                "Kyiv city grenades",
+                "Kyiv city improvised explosive devices",
+                "Kyiv city mines",
+                "Kyiv grenades",
+                "Kyiv improvised explosive devices",
+                "Kyiv mines",
+                "Luhansk",
+                "Luhansk cartridges",
+                "Luhansk grenades",
+                "Luhansk improvised explosive devices",
+                "Luhansk mines",
+                "Lviv",
+                "Lviv cartridges",
+                "Lviv grenades",
+                "Lviv improvised explosive devices",
+                "Lviv mines",
+                "Mykolayiv",
+                "Mykolayiv cartridges",
+                "Mykolayiv grenades",
+                "Mykolayiv improvised explosive devices",
+                "Mykolayiv mines",
+                "Odesa",
+                "Odesa cartridges",
+                "Odesa grenades",
+                "Odesa improvised explosive devices",
+                "Odesa mines",
+                "Poltava",
+                "Poltava cartridges",
+                "Poltava grenades",
+                "Poltava improvised explosive devices",
+                "Poltava mines",
+                "Rivne",
+                "Rivne cartridges",
+                "Rivne grenades",
+                "Rivne improvised explosive devices",
+                "Rivne mines",
+                "Sumy",
+                "Sumy cartridges",
+                "Sumy grenades",
+                "Sumy improvised explosive devices",
+                "Sumy mines",
+                "Ternopil",
+                "Ternopil cartridges",
+                "Ternopil grenades",
+                "Ternopil improvised explosive devices",
+                "Ternopil mines",
+                "Vinnytsya",
+                "Vinnytsya cartridges",
+                "Vinnytsya grenades",
+                "Vinnytsya improvised explosive devices",
+                "Vinnytsya mines",
+                "Volyn",
+                "Volyn cartridges",
+                "Volyn grenades",
+                "Volyn improvised explosive devices",
+                "Volyn mines",
+                "Zakarpattya",
+                "Zakarpattya cartridges",
+                "Zakarpattya grenades",
+                "Zakarpattya improvised explosive devices",
+                "Zakarpattya mines",
+                "Zaporizhya",
+                "Zaporizhya cartridges",
+                "Zaporizhya grenades",
+                "Zaporizhya improvised explosive devices",
+                "Zaporizhya mines",
+                "Zhytomyr",
+                "Zhytomyr cartridges",
+                "Zhytomyr grenades",
+                "Zhytomyr improvised explosive devices",
+                "Zhytomyr mines",
+                "cartridges",
+                "grenades",
+                "improvised explosive devices",
+                "mines"
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "16-5-2"
     },
     {
       "path": "5-2-4/data.csv",
@@ -3106,6 +4188,47 @@
       "title": "4-4-2"
     },
     {
+      "path": "16-8-2/data.csv",
+      "name": "16-8-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "18-35 years",
+                "36-60 years",
+                "61 and older",
+                "female",
+                "male",
+                "rural",
+                "urban"
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "16-8-2"
+    },
+    {
       "path": "8-2-2/data.csv",
       "name": "8-2-2",
       "profile": "tabular-data-resource",
@@ -3138,6 +4261,40 @@
         ]
       },
       "title": "8-2-2"
+    },
+    {
+      "path": "17-2-1/data.csv",
+      "name": "17-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "17-2-1"
     },
     {
       "path": "4-4-1/data.csv",
@@ -3812,6 +4969,40 @@
       "title": "15-3-3"
     },
     {
+      "path": "16-7-1/data.csv",
+      "name": "16-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "16-7-1"
+    },
+    {
       "path": "7-4-1/data.csv",
       "name": "7-4-1",
       "profile": "tabular-data-resource",
@@ -3844,6 +5035,74 @@
         ]
       },
       "title": "7-4-1"
+    },
+    {
+      "path": "16-2-7/data.csv",
+      "name": "16-2-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "16-2-7"
+    },
+    {
+      "path": "16-8-3/data.csv",
+      "name": "16-8-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "16-8-3"
     },
     {
       "path": "9-1-3/data.csv",
@@ -3920,6 +5179,40 @@
         ]
       },
       "title": "11-6-1"
+    },
+    {
+      "path": "17-1-1/data.csv",
+      "name": "17-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "17-1-1"
     },
     {
       "path": "12-4-2/data.csv",
@@ -4371,6 +5664,40 @@
       "title": "9-4-2"
     },
     {
+      "path": "16-8-5/data.csv",
+      "name": "16-8-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "16-8-5"
+    },
+    {
       "path": "15-4-2/data.csv",
       "name": "15-4-2",
       "profile": "tabular-data-resource",
@@ -4667,6 +5994,40 @@
       "title": "7-1-2"
     },
     {
+      "path": "16-4-1/data.csv",
+      "name": "16-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "16-4-1"
+    },
+    {
       "path": "9-6-1/data.csv",
       "name": "9-6-1",
       "profile": "tabular-data-resource",
@@ -4931,6 +6292,44 @@
         ]
       },
       "title": "2-3-1"
+    },
+    {
+      "path": "16-8-4/data.csv",
+      "name": "16-8-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Armed Forces of Ukraine",
+                "State Emergency Service",
+                "State Special Transport Service",
+                "non-governmental international organizations (The Halo Trust. DDG. FSD)"
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "16-8-4"
     },
     {
       "path": "15-4-1/data.csv",
@@ -5310,6 +6709,45 @@
       "title": "9-1-4"
     },
     {
+      "path": "16-1-1/data.csv",
+      "name": "16-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "intentional grievous bodily harm. art. 121",
+                "intentional homicide committed in a state of intense emotional excitement. art. 116",
+                "intentional homicide committed while exceeding the limits of necessary defense or measures necessary to apprehend the offender. art. 118",
+                "intentional homicide. art. 115",
+                "intentional murder of a newborn by mother. art. 117"
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "16-1-1"
+    },
+    {
       "path": "13-1-1/data.csv",
       "name": "13-1-1",
       "profile": "tabular-data-resource",
@@ -5538,6 +6976,40 @@
         ]
       },
       "title": "12-3-1"
+    },
+    {
+      "path": "16-2-3/data.csv",
+      "name": "16-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "16-2-3"
     },
     {
       "path": "15-1-3/data.csv",
