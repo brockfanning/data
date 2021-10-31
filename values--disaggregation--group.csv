@@ -52,9 +52,9 @@ category A,1,1
 category B,1,1
 category C,1,1
 centralized,3,3
-Cherkasy,15,15
-Chernihiv,15,15
-Chernivtsi,15,15
+Cherkasy,16,16
+Chernihiv,16,16
+Chernivtsi,16,16
 child,1,1
 CHP,1,1
 city 1st level (basic. 0-3 points),1,1
@@ -71,8 +71,8 @@ diphtheria. tetanus  (18 months),1,1
 diphtheria. tetanus  (6 years),1,1
 diphtheria. tetanus  (adults),1,1
 diphtheria. tetanus  (under 1 year),1,1
-Dnipropetrovsk,15,15
-Donetsk,15,15
+Dnipropetrovsk,16,16
+Donetsk,16,16
 duration of unpaid homework. minutes per day.female,1,1
 duration of unpaid homework. minutes per day.male,1,1
 duration of unpaid homework. minutes per day.rural,1,1
@@ -133,17 +133,17 @@ households without children,2,2
 HPP,1,1
 industry,4,4
 information and telecommunications,1,1
-Ivano-Frankivsk,15,15
-Kharkiv,15,15
-Kherson,15,15
-Khmelnytskiy,15,15
-Kirovohrad,15,15
-Kyiv city,10,10
-Kyiv,15,15
+Ivano-Frankivsk,16,16
+Kharkiv,16,16
+Kherson,16,16
+Khmelnytskiy,16,16
+Kirovohrad,16,16
+Kyiv city,11,11
+Kyiv,16,16
 land and pipeline transport,1,1
 logistics,2,2
-Luhansk,15,15
-Lviv,15,15
+Luhansk,16,16
+Lviv,16,16
 male. 15-24 years,1,1
 male 1st level (basic. 0-3 points),1,1
 male. 25-64 years,1,1
@@ -197,11 +197,11 @@ milk,1,1
 mining and quarrying including hard coal and brown coal extraction,1,1
 mining and quarrying,2,2
 motor,2,2
-Mykolayiv,15,15
+Mykolayiv,16,16
 natural gas (271121),1,1
 normative value of technological electric power consumption,1,1
 NPP,1,1
-Odesa,15,15
+Odesa,16,16
 other sectors,2,2
 other waste management activities,1,1
 per 1000 women aged 15,1,1
@@ -217,7 +217,7 @@ poliomyelitis (14 years),1,1
 poliomyelitis (18 months),1,1
 poliomyelitis (6 years),1,1
 poliomyelitis (under 1 year),1,1
-Poltava,15,15
+Poltava,16,16
 post and courier services,1,1
 power generating companies of TPP,1,1
 printing. reproduction of recorded information,1,1
@@ -251,7 +251,7 @@ repair and installation of machinery and equipment,1,1
 reported actual value of technological electric power consumption,1,1
 residential sector,2,2
 river,2,2
-Rivne,15,15
+Rivne,16,16
 road transport used by road hauliers,1,1
 rural Cherkasy,1,1
 rural Chernihiv,1,1
@@ -278,7 +278,7 @@ rural Volyn,1,1
 rural Zakarpattya,1,1
 rural Zaporizhya,1,1
 rural Zhytomyr,1,1
-rural,14,14
+rural,16,16
 sea,2,2
 settlemalet. village 1st level (basic. 0-3 points),1,1
 settlemalet. village 2nd level (intermediate. 4-6 points),1,1
@@ -287,13 +287,13 @@ settlemalet. village 4th level (high. 10-12 points),1,1
 sewage. wastewater collection and treatment,1,1
 subway,1,1
 sugar,1,1
-Sumy,15,15
+Sumy,16,16
 sunflower oil,1,1
 supply of electricity. gas. steam and air conditioning,2,2
 technological electric power consumption in distribution system,1,1
 telecommunications,1,1
 temporary accommodation and catering,1,1
-Ternopil,15,15
+Ternopil,16,16
 textile manufacturing. manufacture of clothing. Leather. leather goods and other materials,1,1
 textile manufacturing,1,1
 trade and catering,2,2
@@ -335,15 +335,15 @@ urban Volyn,1,1
 urban Zakarpattya,1,1
 urban Zaporizhya,1,1
 urban Zhytomyr,1,1
-urban,14,14
+urban,16,16
 vegetables,1,1
-Vinnytsya,15,15
-Volyn,15,15
+Vinnytsya,16,16
+Volyn,16,16
 warehousing and auxiliary transport activities,1,1
 water collection. treatment and supply,1,1
 water supply. sewage. waste management,2,2
 water transport,1,1
 wholesale and retail trade. repair of motor vehicles and motorcycles,1,1
-Zakarpattya,15,15
-Zaporizhya,15,15
-Zhytomyr,15,15
+Zakarpattya,16,16
+Zaporizhya,16,16
+Zhytomyr,16,16
