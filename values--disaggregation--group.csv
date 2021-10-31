@@ -22,6 +22,7 @@ Value,Disaggregation combinations using this value,Number of indicators
 9 group,1,1
 administrative and support service activities,1,1
 agriculture. forestry and fisheries,1,1
+agriculture,2,2
 all population. 15-24 years,1,1
 all population. 25-64 years,1,1
 all population.basic higher. 15-24 years,1,1
@@ -45,6 +46,7 @@ bread and bakery products,1,1
 category A,1,1
 category B,1,1
 category C,1,1
+centralized,3,3
 Cherkasy,11,11
 Chernihiv,11,11
 Chernivtsi,11,11
@@ -53,7 +55,9 @@ city 1st level (basic. 0-3 points),1,1
 city 2nd level (intermediate. 4-6 points),1,1
 city 3rd level (adequate. 7-9 points),1,1
 city 4th level (high. 10-12 points),1,1
-construction,1,1
+communication,2,2
+construction,3,3
+decentralized,3,3
 diphtheria. tetanus  (16 years),1,1
 diphtheria. tetanus  (18 months),1,1
 diphtheria. tetanus  (6 years),1,1
@@ -100,8 +104,10 @@ female.professional and technical. 25-64 years,1,1
 females,3,3
 financial and insurance activities,1,1
 fish and fish products,1,1
+forestry,2,2
 fruits,1,1
 health care and social assistance,1,1
+health care. physical education,2,2
 hepatitis B  (under 1 year),1,1
 hib infection (1 year),1,1
 hib infection (under 1 year),1,1
@@ -110,7 +116,7 @@ households (crop products),1,1
 households (livestock products),1,1
 households with children,2,2
 households without children,2,2
-industry,1,1
+industry,3,3
 information and telecommunications,1,1
 Ivano-Frankivsk,11,11
 Kharkiv,11,11
@@ -119,6 +125,7 @@ Khmelnytskiy,11,11
 Kirovohrad,11,11
 Kyiv city,6,6
 Kyiv,11,11
+logistics,2,2
 Luhansk,11,11
 Lviv,11,11
 male. 15-24 years,1,1
@@ -147,6 +154,7 @@ meat and meat products,1,1
 milk,1,1
 Mykolayiv,11,11
 Odesa,11,11
+other sectors,2,2
 per 1000 women aged 15,1,1
 per 1000 women aged 16,1,1
 per 1000 women aged 17,1,1
@@ -179,10 +187,12 @@ production of tea and coffee,1,1
 professional. scientific and technical activities,1,1
 provision of other services,1,1
 public administration and defense. compulsory social insurance,1,1
+public education,2,2
 real estate transactions,1,1
+residential sector,2,2
 Rivne,11,11
 road transport used by road hauliers,1,1
-rural,9,9
+rural,12,12
 settlemalet. village 1st level (basic. 0-3 points),1,1
 settlemalet. village 2nd level (intermediate. 4-6 points),1,1
 settlemalet. village 3rd level (adequate. 7-9 points),1,1
@@ -192,7 +202,9 @@ Sumy,11,11
 sunflower oil,1,1
 temporary accommodation and catering,1,1
 Ternopil,11,11
+trade and catering,2,2
 transport. warehousing. post and courier services,1,1
+transport,2,2
 tuberculosis  (under 1 year),1,1
 under 18 years old,2,2
 up to 15 years,1,1
@@ -201,7 +213,7 @@ urban settlemalet 1st level (basic. 0-3 points),1,1
 urban settlemalet 2nd level (intermediate. 4-6 points),1,1
 urban settlemalet 3rd level (adequate. 7-9 points),1,1
 urban settlemalet 4th level (high. 10-12 points),1,1
-urban,9,9
+urban,12,12
 vegetables,1,1
 Vinnytsya,11,11
 Volyn,11,11
