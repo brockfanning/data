@@ -41,6 +41,7 @@ all population.incomplete higher. 25-64 years,1,1
 all population.professional and technical. 15-24 years,1,1
 all population.professional and technical. 25-64 years,1,1
 alternative energy sources (WPS/ SPP/ biomass),1,1
+ammonia,1,1
 arts. sports. entertainment and recreation,1,1
 average cost per doctoral student. UAH,1,1
 average cost per full-time graduate student. UAH,1,1
@@ -49,6 +50,7 @@ average cost per student.UAH,1,1
 bread and bakery products,1,1
 by main types of sources. including road transport,1,1
 captive power plants,1,1
+carbon monoxide,1,1
 category A,1,1
 category B,1,1
 category C,1,1
@@ -120,6 +122,7 @@ females,3,3
 financial and insurance activities,1,1
 fish and fish products,1,1
 forestry,2,2
+formaldehyde,1,1
 fruits,1,1
 GDP carbon intensity,1,1
 GDP energy intensity,1,1
@@ -137,6 +140,7 @@ households (livestock products),1,1
 households with children,2,2
 households without children,2,2
 HPP,1,1
+hydrogen fluoride,1,1
 industry,4,4
 information and telecommunications,1,1
 Ivano-Frankivsk,16,16
@@ -205,6 +209,8 @@ mining and quarrying,2,2
 motor,2,2
 Mykolayiv,16,16
 natural gas (271121),1,1
+nitric oxide,1,1
+nitrogen dioxide,1,1
 normative value of technological electric power consumption,1,1
 NPP,1,1
 Odesa,16,16
@@ -218,6 +224,7 @@ per 1000 women aged 19,1,1
 pertussis  (18 months),1,1
 pertussis  (under 1 year),1,1
 petroleum (2709),1,1
+phenol,1,1
 pipeline,1,1
 poliomyelitis (14 years),1,1
 poliomyelitis (18 months),1,1
@@ -291,11 +298,14 @@ settlemalet. village 2nd level (intermediate. 4-6 points),1,1
 settlemalet. village 3rd level (adequate. 7-9 points),1,1
 settlemalet. village 4th level (high. 10-12 points),1,1
 sewage. wastewater collection and treatment,1,1
+soot,1,1
 subway,1,1
 sugar,1,1
+sulfur dioxide,1,1
 Sumy,16,16
 sunflower oil,1,1
 supply of electricity. gas. steam and air conditioning,2,2
+suspended matter (dust),1,1
 technological electric power consumption in distribution system,1,1
 telecommunications,1,1
 temporary accommodation and catering,1,1
