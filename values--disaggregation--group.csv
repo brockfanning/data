@@ -12,6 +12,8 @@ Value,Disaggregation combinations using this value,Number of indicators
 7 group,1,1
 8 group,1,1
 9 group,1,1
+administrative and support service activities,1,1
+agriculture. forestry and fisheries,1,1
 all population. 15-24 years,1,1
 all population. 25-64 years,1,1
 all population.basic higher. 15-24 years,1,1
@@ -26,25 +28,40 @@ all population.incomplete higher. 15-24 years,1,1
 all population.incomplete higher. 25-64 years,1,1
 all population.professional and technical. 15-24 years,1,1
 all population.professional and technical. 25-64 years,1,1
+arts. sports. entertainment and recreation,1,1
 average cost per doctoral student. UAH,1,1
 average cost per full-time graduate student. UAH,1,1
 average cost per graduate student trained on-the-job. UAH,1,1
 average cost per student.UAH,1,1
 bread and bakery products,1,1
-Cherkasy,10,10
-Chernihiv,10,10
-Chernivtsi,10,10
+category A,1,1
+category B,1,1
+category C,1,1
+Cherkasy,11,11
+Chernihiv,11,11
+Chernivtsi,11,11
+child,1,1
 city 1st level (basic. 0-3 points),1,1
 city 2nd level (intermediate. 4-6 points),1,1
 city 3rd level (adequate. 7-9 points),1,1
 city 4th level (high. 10-12 points),1,1
+construction,1,1
 diphtheria. tetanus  (16 years),1,1
 diphtheria. tetanus  (18 months),1,1
 diphtheria. tetanus  (6 years),1,1
 diphtheria. tetanus  (adults),1,1
 diphtheria. tetanus  (under 1 year),1,1
-Dnipropetrovsk,10,10
-Donetsk,10,10
+Dnipropetrovsk,11,11
+Donetsk,11,11
+duration of unpaid homework. minutes per day.female,1,1
+duration of unpaid homework. minutes per day.male,1,1
+duration of unpaid homework. minutes per day.rural,1,1
+duration of unpaid homework. minutes per day.rural.female,1,1
+duration of unpaid homework. minutes per day.rural.male,1,1
+duration of unpaid homework. minutes per day.urban,1,1
+duration of unpaid homework. minutes per day.urban.female,1,1
+duration of unpaid homework. minutes per day.urban.male,1,1
+education,1,1
 eggs,1,1
 enterprises (agricultural products),1,1
 enterprises (crop products),1,1
@@ -59,7 +76,7 @@ female. 25-64 years,1,1
 female 2nd level (intermediate. 4-6 points),1,1
 female 3rd level (adequate. 7-9 points),1,1
 female 4th level (high. 10-12 points),1,1
-female,1,1
+female,2,2
 female.basic higher. 15-24 years,1,1
 female.basic higher. 25-64 years,1,1
 female.basic.elementary general or no education. 15-24 years,1,1
@@ -73,8 +90,10 @@ female.incomplete higher. 25-64 years,1,1
 female.professional and technical. 15-24 years,1,1
 female.professional and technical. 25-64 years,1,1
 females,3,3
+financial and insurance activities,1,1
 fish and fish products,1,1
 fruits,1,1
+health care and social assistance,1,1
 hepatitis B  (under 1 year),1,1
 hib infection (1 year),1,1
 hib infection (under 1 year),1,1
@@ -83,22 +102,24 @@ households (crop products),1,1
 households (livestock products),1,1
 households with children,2,2
 households without children,2,2
-Ivano-Frankivsk,10,10
-Kharkiv,10,10
-Kherson,10,10
-Khmelnytskiy,10,10
-Kirovohrad,10,10
-Kyiv city,5,5
-Kyiv,10,10
-Luhansk,10,10
-Lviv,10,10
+industry,1,1
+information and telecommunications,1,1
+Ivano-Frankivsk,11,11
+Kharkiv,11,11
+Kherson,11,11
+Khmelnytskiy,11,11
+Kirovohrad,11,11
+Kyiv city,6,6
+Kyiv,11,11
+Luhansk,11,11
+Lviv,11,11
 male. 15-24 years,1,1
 male 1st level (basic. 0-3 points),1,1
 male. 25-64 years,1,1
 male 2nd level (intermediate. 4-6 points),1,1
 male 3rd level (adequate. 7-9 points),1,1
 male 4th level (high. 10-12 points),1,1
-male,1,1
+male,2,2
 male.basic higher. 15-24 years,1,1
 male.basic higher. 25-64 years,1,1
 male.basic.elementary general or no education. 15-24 years,1,1
@@ -116,15 +137,20 @@ measles. mumps. rubella  (1 year),1,1
 measles. mumps. rubella  (6 years),1,1
 meat and meat products,1,1
 milk,1,1
-Mykolayiv,10,10
-Odesa,10,10
+Mykolayiv,11,11
+Odesa,11,11
+per 1000 women aged 15,1,1
+per 1000 women aged 16,1,1
+per 1000 women aged 17,1,1
+per 1000 women aged 18,1,1
+per 1000 women aged 19,1,1
 pertussis  (18 months),1,1
 pertussis  (under 1 year),1,1
 poliomyelitis (14 years),1,1
 poliomyelitis (18 months),1,1
 poliomyelitis (6 years),1,1
 poliomyelitis (under 1 year),1,1
-Poltava,10,10
+Poltava,11,11
 processing and preserving of fish. crustaceans and molluscs,1,1
 processing and preserving of fruits and vegetables,1,1
 production of bread and bakery products. production of  short-term storage flour confectioner. cakes and pastries,1,1
@@ -142,7 +168,11 @@ production of rusks and biscuits. production of  long-term storage flour confect
 production of spices and seasonings,1,1
 production of sugar,1,1
 production of tea and coffee,1,1
-Rivne,10,10
+professional. scientific and technical activities,1,1
+provision of other services,1,1
+public administration and defense. compulsory social insurance,1,1
+real estate transactions,1,1
+Rivne,11,11
 road transport used by road hauliers,1,1
 rural,7,7
 settlemalet. village 1st level (basic. 0-3 points),1,1
@@ -150,9 +180,11 @@ settlemalet. village 2nd level (intermediate. 4-6 points),1,1
 settlemalet. village 3rd level (adequate. 7-9 points),1,1
 settlemalet. village 4th level (high. 10-12 points),1,1
 sugar,1,1
-Sumy,10,10
+Sumy,11,11
 sunflower oil,1,1
-Ternopil,10,10
+temporary accommodation and catering,1,1
+Ternopil,11,11
+transport. warehousing. post and courier services,1,1
 tuberculosis  (under 1 year),1,1
 under 18 years old,2,2
 urban electric transport,1,1
@@ -162,8 +194,9 @@ urban settlemalet 3rd level (adequate. 7-9 points),1,1
 urban settlemalet 4th level (high. 10-12 points),1,1
 urban,7,7
 vegetables,1,1
-Vinnytsya,10,10
-Volyn,10,10
-Zakarpattya,10,10
-Zaporizhya,10,10
-Zhytomyr,10,10
+Vinnytsya,11,11
+Volyn,11,11
+wholesale and retail trade. repair of motor vehicles and motorcycles,1,1
+Zakarpattya,11,11
+Zaporizhya,11,11
+Zhytomyr,11,11

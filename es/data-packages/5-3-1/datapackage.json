@@ -1,0 +1,48 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "duration of unpaid homework. minutes per day.female",
+                "duration of unpaid homework. minutes per day.male",
+                "duration of unpaid homework. minutes per day.urban",
+                "duration of unpaid homework. minutes per day.urban.female",
+                "duration of unpaid homework. minutes per day.urban.male",
+                "duration of unpaid homework. minutes per day.rural",
+                "duration of unpaid homework. minutes per day.rural.female",
+                "duration of unpaid homework. minutes per day.rural.male",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-3-1",
+  "title": "5-3-1"
+}
