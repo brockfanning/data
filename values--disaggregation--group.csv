@@ -16,6 +16,10 @@ bread and bakery products,1,1
 Cherkasy,10,10
 Chernihiv,10,10
 Chernivtsi,10,10
+city 1st level (basic. 0-3 points),1,1
+city 2nd level (intermediate. 4-6 points),1,1
+city 3rd level (adequate. 7-9 points),1,1
+city 4th level (high. 10-12 points),1,1
 diphtheria. tetanus  (16 years),1,1
 diphtheria. tetanus  (18 months),1,1
 diphtheria. tetanus  (6 years),1,1
@@ -30,6 +34,10 @@ enterprises (livestock products),1,1
 farms (agricultural products),1,1
 farms (crop products),1,1
 farms (livestock products),1,1
+female 1st level (basic. 0-3 points),1,1
+female 2nd level (intermediate. 4-6 points),1,1
+female 3rd level (adequate. 7-9 points),1,1
+female 4th level (high. 10-12 points),1,1
 female,1,1
 females,3,3
 fish and fish products,1,1
@@ -51,6 +59,10 @@ Kyiv city,5,5
 Kyiv,10,10
 Luhansk,10,10
 Lviv,10,10
+male 1st level (basic. 0-3 points),1,1
+male 2nd level (intermediate. 4-6 points),1,1
+male 3rd level (adequate. 7-9 points),1,1
+male 4th level (high. 10-12 points),1,1
 male,1,1
 males,3,3
 measles. mumps. rubella  (1 year),1,1
@@ -86,6 +98,10 @@ production of tea and coffee,1,1
 Rivne,10,10
 road transport used by road hauliers,1,1
 rural,6,6
+settlemalet. village 1st level (basic. 0-3 points),1,1
+settlemalet. village 2nd level (intermediate. 4-6 points),1,1
+settlemalet. village 3rd level (adequate. 7-9 points),1,1
+settlemalet. village 4th level (high. 10-12 points),1,1
 sugar,1,1
 Sumy,10,10
 sunflower oil,1,1
@@ -93,6 +109,10 @@ Ternopil,10,10
 tuberculosis  (under 1 year),1,1
 under 18 years old,2,2
 urban electric transport,1,1
+urban settlemalet 1st level (basic. 0-3 points),1,1
+urban settlemalet 2nd level (intermediate. 4-6 points),1,1
+urban settlemalet 3rd level (adequate. 7-9 points),1,1
+urban settlemalet 4th level (high. 10-12 points),1,1
 urban,6,6
 vegetables,1,1
 Vinnytsya,10,10
