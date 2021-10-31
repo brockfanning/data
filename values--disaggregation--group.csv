@@ -4,20 +4,20 @@ Value,Disaggregation combinations using this value,Number of indicators
 15-17 years,1,1
 15-24 years,1,1
 18-24 years,1,1
-18-34 years,2,2
+18-34 years,1,1
 18-35 years,2,2
 2 group,1,1
 25-35 years,1,1
 25-64 years,1,1
 3 group,1,1
-35-59 years,2,2
+35-59 years,1,1
 36-59 years,1,1
 36-60 years,2,2
 4 group,1,1
 5 group,1,1
 6 group,1,1
 60-74 years,1,1
-60 years and older,2,2
+60 years and older,1,1
 61 and older,2,2
 7 group,1,1
 75 years and older,1,1
@@ -198,7 +198,7 @@ female.incomplete higher. 15-24 years,1,1
 female.incomplete higher. 25-64 years,1,1
 female.professional and technical. 15-24 years,1,1
 female.professional and technical. 25-64 years,1,1
-females,5,5
+females,4,4
 financial and insurance activities,1,1
 fish and fish products,1,1
 Forest-steppe,1,1
@@ -222,8 +222,8 @@ hib infection (under 1 year),1,1
 households (agricultural products),1,1
 households (crop products),1,1
 households (livestock products),1,1
-households with children,2,2
-households without children,2,2
+households with children,1,1
+households without children,1,1
 HPP,1,1
 human trafficking or other illicit transactions involving the transfer of human beings. art. 149.adolescents,1,1
 human trafficking or other illicit transactions involving the transfer of human beings. art. 149.females,1,1
@@ -313,7 +313,7 @@ male.incomplete higher. 15-24 years,1,1
 male.incomplete higher. 25-64 years,1,1
 male.professional and technical. 15-24 years,1,1
 male.professional and technical. 25-64 years,1,1
-males,3,3
+males,2,2
 manufacture of beverages,1,1
 manufacture of chemicals and chemical products,2,2
 manufacture of clothing,1,1
@@ -756,7 +756,7 @@ transport. warehousing. postal and courier activities,1,1
 transport,2,2
 trolleybus,1,1
 tuberculosis  (under 1 year),1,1
-under 18 years old,2,2
+under 18 years old,1,1
 under 18 years,1,1
 up to 15 years,1,1
 urban Cherkasy,1,1
