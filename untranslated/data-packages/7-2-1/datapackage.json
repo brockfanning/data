@@ -12,8 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
+            "type": "integer"
           },
           {
             "name": "Group",
@@ -25,19 +24,17 @@
                 "natural gas (271121)",
                 ""
               ]
-            },
-            "title": "Group"
+            }
           },
           {
             "name": "Value",
-            "type": "number",
-            "title": "Value"
+            "type": "number"
           }
         ]
       }
     }
   ],
   "profile": "data-package",
-  "name": "7-2-1 ",
-  "title": "7-2-1 "
+  "name": "7-2-1",
+  "title": "7-2-1"
 }
