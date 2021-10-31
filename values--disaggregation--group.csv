@@ -38,12 +38,14 @@ all population.incomplete higher. 15-24 years,1,1
 all population.incomplete higher. 25-64 years,1,1
 all population.professional and technical. 15-24 years,1,1
 all population.professional and technical. 25-64 years,1,1
+alternative energy sources (WPS/ SPP/ biomass),1,1
 arts. sports. entertainment and recreation,1,1
 average cost per doctoral student. UAH,1,1
 average cost per full-time graduate student. UAH,1,1
 average cost per graduate student trained on-the-job. UAH,1,1
 average cost per student.UAH,1,1
 bread and bakery products,1,1
+captive power plants,1,1
 category A,1,1
 category B,1,1
 category C,1,1
@@ -52,10 +54,12 @@ Cherkasy,13,13
 Chernihiv,13,13
 Chernivtsi,13,13
 child,1,1
+CHP,1,1
 city 1st level (basic. 0-3 points),1,1
 city 2nd level (intermediate. 4-6 points),1,1
 city 3rd level (adequate. 7-9 points),1,1
 city 4th level (high. 10-12 points),1,1
+coal (2701),1,1
 communication,2,2
 construction,4,4
 decentralized,3,3
@@ -76,9 +80,11 @@ duration of unpaid homework. minutes per day.urban.female,1,1
 duration of unpaid homework. minutes per day.urban.male,1,1
 education,1,1
 eggs,1,1
+electricity generation,1,1
 enterprises (agricultural products),1,1
 enterprises (crop products),1,1
 enterprises (livestock products),1,1
+excess value of technological electric power consumption,1,1
 expenditures of higher education institutions on scientific research activities. million UAH,1,1
 farms (agricultural products),1,1
 farms (crop products),1,1
@@ -117,6 +123,7 @@ households (crop products),1,1
 households (livestock products),1,1
 households with children,2,2
 households without children,2,2
+HPP,1,1
 industry,4,4
 information and telecommunications,1,1
 Ivano-Frankivsk,13,13
@@ -168,6 +175,9 @@ milk,1,1
 mining and quarrying including hard coal and brown coal extraction,1,1
 mining and quarrying,1,1
 Mykolayiv,13,13
+natural gas (271121),1,1
+normative value of technological electric power consumption,1,1
+NPP,1,1
 Odesa,13,13
 other sectors,2,2
 per 1000 women aged 15,1,1
@@ -177,11 +187,13 @@ per 1000 women aged 18,1,1
 per 1000 women aged 19,1,1
 pertussis  (18 months),1,1
 pertussis  (under 1 year),1,1
+petroleum (2709),1,1
 poliomyelitis (14 years),1,1
 poliomyelitis (18 months),1,1
 poliomyelitis (6 years),1,1
 poliomyelitis (under 1 year),1,1
 Poltava,13,13
+power generating companies of TPP,1,1
 processing and preserving of fish. crustaceans and molluscs,1,1
 processing and preserving of fruits and vegetables,1,1
 processing industry,1,1
@@ -202,9 +214,11 @@ production of sugar,1,1
 production of tea and coffee,1,1
 professional. scientific and technical activities,1,1
 provision of other services,1,1
+PSP,1,1
 public administration and defense. compulsory social insurance,1,1
 public education,2,2
 real estate transactions,1,1
+reported actual value of technological electric power consumption,1,1
 residential sector,2,2
 Rivne,13,13
 road transport used by road hauliers,1,1
@@ -217,6 +231,7 @@ sugar,1,1
 Sumy,13,13
 sunflower oil,1,1
 supply of electricity. gas. steam and air conditioning,1,1
+technological electric power consumption in distribution system,1,1
 telecommunications,1,1
 temporary accommodation and catering,1,1
 Ternopil,13,13
