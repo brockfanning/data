@@ -21,6 +21,7 @@ Value,Disaggregation combinations using this value,Number of indicators
 8 group,1,1
 9 group,1,1
 administrative and support service activities,1,1
+agriculture and related services,1,1
 agriculture. forestry and fisheries,1,1
 agriculture,2,2
 all population. 15-24 years,1,1
@@ -47,24 +48,24 @@ category A,1,1
 category B,1,1
 category C,1,1
 centralized,3,3
-Cherkasy,11,11
-Chernihiv,11,11
-Chernivtsi,11,11
+Cherkasy,13,13
+Chernihiv,13,13
+Chernivtsi,13,13
 child,1,1
 city 1st level (basic. 0-3 points),1,1
 city 2nd level (intermediate. 4-6 points),1,1
 city 3rd level (adequate. 7-9 points),1,1
 city 4th level (high. 10-12 points),1,1
 communication,2,2
-construction,3,3
+construction,4,4
 decentralized,3,3
 diphtheria. tetanus  (16 years),1,1
 diphtheria. tetanus  (18 months),1,1
 diphtheria. tetanus  (6 years),1,1
 diphtheria. tetanus  (adults),1,1
 diphtheria. tetanus  (under 1 year),1,1
-Dnipropetrovsk,11,11
-Donetsk,11,11
+Dnipropetrovsk,13,13
+Donetsk,13,13
 duration of unpaid homework. minutes per day.female,1,1
 duration of unpaid homework. minutes per day.male,1,1
 duration of unpaid homework. minutes per day.rural,1,1
@@ -88,7 +89,7 @@ female. 25-64 years,1,1
 female 2nd level (intermediate. 4-6 points),1,1
 female 3rd level (adequate. 7-9 points),1,1
 female 4th level (high. 10-12 points),1,1
-female,4,4
+female,6,6
 female.basic higher. 15-24 years,1,1
 female.basic higher. 25-64 years,1,1
 female.basic.elementary general or no education. 15-24 years,1,1
@@ -116,25 +117,25 @@ households (crop products),1,1
 households (livestock products),1,1
 households with children,2,2
 households without children,2,2
-industry,3,3
+industry,4,4
 information and telecommunications,1,1
-Ivano-Frankivsk,11,11
-Kharkiv,11,11
-Kherson,11,11
-Khmelnytskiy,11,11
-Kirovohrad,11,11
-Kyiv city,6,6
-Kyiv,11,11
+Ivano-Frankivsk,13,13
+Kharkiv,13,13
+Kherson,13,13
+Khmelnytskiy,13,13
+Kirovohrad,13,13
+Kyiv city,8,8
+Kyiv,13,13
 logistics,2,2
-Luhansk,11,11
-Lviv,11,11
+Luhansk,13,13
+Lviv,13,13
 male. 15-24 years,1,1
 male 1st level (basic. 0-3 points),1,1
 male. 25-64 years,1,1
 male 2nd level (intermediate. 4-6 points),1,1
 male 3rd level (adequate. 7-9 points),1,1
 male 4th level (high. 10-12 points),1,1
-male,4,4
+male,6,6
 male.basic higher. 15-24 years,1,1
 male.basic higher. 25-64 years,1,1
 male.basic.elementary general or no education. 15-24 years,1,1
@@ -148,12 +149,26 @@ male.incomplete higher. 25-64 years,1,1
 male.professional and technical. 15-24 years,1,1
 male.professional and technical. 25-64 years,1,1
 males,3,3
+manufacture of chemicals and chemical products,1,1
+manufacture of coke and refined petroleum products,1,1
+manufacture of computers. electronic and optical products,1,1
+manufacture of electrical equipment,1,1
+manufacture of food. beverages and tobacco products,1,1
+manufacture of furniture. other products. repair and installation of machinery and equipment,1,1
+manufacture of machinery and equipment. not elsewhere classified,1,1
+manufacture of main pharmaceutical products and preparations,1,1
+manufacture of motor vehicles. trailers and semi-trailers and other vehicles,1,1
+manufacture of rubber and plastic products. other non-metallic mineral products,1,1
+manufacture of wood products. paper manufacturing and printing,1,1
 measles. mumps. rubella  (1 year),1,1
 measles. mumps. rubella  (6 years),1,1
 meat and meat products,1,1
+metallurgical manufacturing. manufacture of fabricated metal products. except machinery and equipment,1,1
 milk,1,1
-Mykolayiv,11,11
-Odesa,11,11
+mining and quarrying including hard coal and brown coal extraction,1,1
+mining and quarrying,1,1
+Mykolayiv,13,13
+Odesa,13,13
 other sectors,2,2
 per 1000 women aged 15,1,1
 per 1000 women aged 16,1,1
@@ -166,9 +181,10 @@ poliomyelitis (14 years),1,1
 poliomyelitis (18 months),1,1
 poliomyelitis (6 years),1,1
 poliomyelitis (under 1 year),1,1
-Poltava,11,11
+Poltava,13,13
 processing and preserving of fish. crustaceans and molluscs,1,1
 processing and preserving of fruits and vegetables,1,1
+processing industry,1,1
 production of bread and bakery products. production of  short-term storage flour confectioner. cakes and pastries,1,1
 production of bread and bakery products. production of  short-term storage flour confectionery. cakes and pastries,1,1
 production of bread. bakery and flour products,1,1
@@ -190,20 +206,24 @@ public administration and defense. compulsory social insurance,1,1
 public education,2,2
 real estate transactions,1,1
 residential sector,2,2
-Rivne,11,11
+Rivne,13,13
 road transport used by road hauliers,1,1
-rural,12,12
+rural,13,13
 settlemalet. village 1st level (basic. 0-3 points),1,1
 settlemalet. village 2nd level (intermediate. 4-6 points),1,1
 settlemalet. village 3rd level (adequate. 7-9 points),1,1
 settlemalet. village 4th level (high. 10-12 points),1,1
 sugar,1,1
-Sumy,11,11
+Sumy,13,13
 sunflower oil,1,1
+supply of electricity. gas. steam and air conditioning,1,1
+telecommunications,1,1
 temporary accommodation and catering,1,1
-Ternopil,11,11
+Ternopil,13,13
+textile manufacturing. manufacture of clothing. Leather. leather goods and other materials,1,1
 trade and catering,2,2
 transport. warehousing. post and courier services,1,1
+transport. warehousing. postal and courier activities,1,1
 transport,2,2
 tuberculosis  (under 1 year),1,1
 under 18 years old,2,2
@@ -213,11 +233,12 @@ urban settlemalet 1st level (basic. 0-3 points),1,1
 urban settlemalet 2nd level (intermediate. 4-6 points),1,1
 urban settlemalet 3rd level (adequate. 7-9 points),1,1
 urban settlemalet 4th level (high. 10-12 points),1,1
-urban,12,12
+urban,13,13
 vegetables,1,1
-Vinnytsya,11,11
-Volyn,11,11
+Vinnytsya,13,13
+Volyn,13,13
+water supply. sewage. waste management,1,1
 wholesale and retail trade. repair of motor vehicles and motorcycles,1,1
-Zakarpattya,11,11
-Zaporizhya,11,11
-Zhytomyr,11,11
+Zakarpattya,13,13
+Zaporizhya,13,13
+Zhytomyr,13,13
