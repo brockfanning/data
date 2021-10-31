@@ -1,0 +1,57 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "tuberculosis  (under 1 year)",
+                "hepatitis B  (under 1 year)",
+                "measles. mumps. rubella  (1 year)",
+                "measles. mumps. rubella  (6 years)",
+                "diphtheria. tetanus  (under 1 year)",
+                "diphtheria. tetanus  (18 months)",
+                "diphtheria. tetanus  (6 years)",
+                "diphtheria. tetanus  (16 years)",
+                "diphtheria. tetanus  (adults)",
+                "pertussis  (under 1 year)",
+                "pertussis  (18 months)",
+                "poliomyelitis (under 1 year)",
+                "poliomyelitis (18 months)",
+                "poliomyelitis (6 years)",
+                "poliomyelitis (14 years)",
+                "hib infection (under 1 year)",
+                "hib infection (1 year)",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-7-1",
+  "title": "3-7-1"
+}

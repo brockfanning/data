@@ -103,6 +103,65 @@
       "title": "2-1-3"
     },
     {
+      "path": "3-4-1/data.csv",
+      "name": "3-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Cherkasy",
+                "Chernihiv",
+                "Chernivtsi",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Ivano-Frankivsk",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Kirovohrad",
+                "Kyiv",
+                "Kyiv city",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Vinnytsya",
+                "Volyn",
+                "Zakarpattya",
+                "Zaporizhya",
+                "Zhytomyr"
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "3-4-1"
+    },
+    {
       "path": "2-1-5/data.csv",
       "name": "2-1-5",
       "profile": "tabular-data-resource",
@@ -257,6 +316,146 @@
       "title": "1-3-1"
     },
     {
+      "path": "3-6-2/data.csv",
+      "name": "3-6-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "road transport used by road hauliers",
+                "urban electric transport"
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "3-6-2"
+    },
+    {
+      "path": "3-5-1/data.csv",
+      "name": "3-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "rural",
+                "urban"
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "3-5-1"
+    },
+    {
+      "path": "3-6-1/data.csv",
+      "name": "3-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "3-6-1"
+    },
+    {
+      "path": "3-3-2/data.csv",
+      "name": "3-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "3-3-2"
+    },
+    {
       "path": "2-1-2/data.csv",
       "name": "2-1-2",
       "profile": "tabular-data-resource",
@@ -358,6 +557,101 @@
       "title": "2-2-2"
     },
     {
+      "path": "3-5-2/data.csv",
+      "name": "3-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "rural",
+                "urban"
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "3-5-2"
+    },
+    {
+      "path": "3-4-3/data.csv",
+      "name": "3-4-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Cherkasy",
+                "Chernihiv",
+                "Chernivtsi",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Ivano-Frankivsk",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Kirovohrad",
+                "Kyiv",
+                "Kyiv city",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Vinnytsya",
+                "Volyn",
+                "Zakarpattya",
+                "Zaporizhya",
+                "Zhytomyr"
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "3-4-3"
+    },
+    {
       "path": "2-3-3/data.csv",
       "name": "2-3-3",
       "profile": "tabular-data-resource",
@@ -390,6 +684,126 @@
         ]
       },
       "title": "2-3-3"
+    },
+    {
+      "path": "3-4-2/data.csv",
+      "name": "3-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Cherkasy",
+                "Chernihiv",
+                "Chernivtsi",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Ivano-Frankivsk",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Kirovohrad",
+                "Kyiv",
+                "Kyiv city",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Vinnytsya",
+                "Volyn",
+                "Zakarpattya",
+                "Zaporizhya",
+                "Zhytomyr"
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "3-4-2"
+    },
+    {
+      "path": "3-3-1/data.csv",
+      "name": "3-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Cherkasy",
+                "Chernihiv",
+                "Chernivtsi",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Ivano-Frankivsk",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Kirovohrad",
+                "Kyiv",
+                "Kyiv city",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Vinnytsya",
+                "Volyn",
+                "Zakarpattya",
+                "Zaporizhya",
+                "Zhytomyr",
+                "female",
+                "male"
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "3-3-1"
     },
     {
       "path": "2-3-2/data.csv",
@@ -466,6 +880,42 @@
         ]
       },
       "title": "1-1-1"
+    },
+    {
+      "path": "3-8-2/data.csv",
+      "name": "3-8-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "rural",
+                "urban"
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "3-8-2"
     },
     {
       "path": "2-4-1/data.csv",
@@ -569,6 +1019,57 @@
       "title": "2-1-4"
     },
     {
+      "path": "3-7-1/data.csv",
+      "name": "3-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "diphtheria. tetanus  (16 years)",
+                "diphtheria. tetanus  (18 months)",
+                "diphtheria. tetanus  (6 years)",
+                "diphtheria. tetanus  (adults)",
+                "diphtheria. tetanus  (under 1 year)",
+                "hepatitis B  (under 1 year)",
+                "hib infection (1 year)",
+                "hib infection (under 1 year)",
+                "measles. mumps. rubella  (1 year)",
+                "measles. mumps. rubella  (6 years)",
+                "pertussis  (18 months)",
+                "pertussis  (under 1 year)",
+                "poliomyelitis (14 years)",
+                "poliomyelitis (18 months)",
+                "poliomyelitis (6 years)",
+                "poliomyelitis (under 1 year)",
+                "tuberculosis  (under 1 year)"
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "3-7-1"
+    },
+    {
       "path": "2-3-1/data.csv",
       "name": "2-3-1",
       "profile": "tabular-data-resource",
@@ -618,6 +1119,40 @@
         ]
       },
       "title": "2-3-1"
+    },
+    {
+      "path": "3-9-1/data.csv",
+      "name": "3-9-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "3-9-1"
     },
     {
       "path": "2-2-1/data.csv",
@@ -686,6 +1221,101 @@
         ]
       },
       "title": "1-1-2"
+    },
+    {
+      "path": "3-4-4/data.csv",
+      "name": "3-4-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Cherkasy",
+                "Chernihiv",
+                "Chernivtsi",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Ivano-Frankivsk",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Kirovohrad",
+                "Kyiv",
+                "Kyiv city",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Vinnytsya",
+                "Volyn",
+                "Zakarpattya",
+                "Zaporizhya",
+                "Zhytomyr"
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "3-4-4"
+    },
+    {
+      "path": "3-8-1/data.csv",
+      "name": "3-8-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "rural",
+                "urban"
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "3-8-1"
     },
     {
       "path": "1-3-2/data.csv",

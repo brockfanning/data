@@ -13,11 +13,16 @@ Value,Disaggregation combinations using this value,Number of indicators
 8 group,1,1
 9 group,1,1
 bread and bakery products,1,1
-Cherkasy,5,5
-Chernihiv,5,5
-Chernivtsi,5,5
-Dnipropetrovsk,5,5
-Donetsk,5,5
+Cherkasy,10,10
+Chernihiv,10,10
+Chernivtsi,10,10
+diphtheria. tetanus  (16 years),1,1
+diphtheria. tetanus  (18 months),1,1
+diphtheria. tetanus  (6 years),1,1
+diphtheria. tetanus  (adults),1,1
+diphtheria. tetanus  (under 1 year),1,1
+Dnipropetrovsk,10,10
+Donetsk,10,10
 eggs,1,1
 enterprises (agricultural products),1,1
 enterprises (crop products),1,1
@@ -25,28 +30,42 @@ enterprises (livestock products),1,1
 farms (agricultural products),1,1
 farms (crop products),1,1
 farms (livestock products),1,1
+female,1,1
 females,3,3
 fish and fish products,1,1
 fruits,1,1
+hepatitis B  (under 1 year),1,1
+hib infection (1 year),1,1
+hib infection (under 1 year),1,1
 households (agricultural products),1,1
 households (crop products),1,1
 households (livestock products),1,1
 households with children,2,2
 households without children,2,2
-Ivano-Frankivsk,5,5
-Kharkiv,5,5
-Kherson,5,5
-Khmelnytskiy,5,5
-Kirovohrad,5,5
-Kyiv,5,5
-Luhansk,5,5
-Lviv,5,5
+Ivano-Frankivsk,10,10
+Kharkiv,10,10
+Kherson,10,10
+Khmelnytskiy,10,10
+Kirovohrad,10,10
+Kyiv city,5,5
+Kyiv,10,10
+Luhansk,10,10
+Lviv,10,10
+male,1,1
 males,3,3
+measles. mumps. rubella  (1 year),1,1
+measles. mumps. rubella  (6 years),1,1
 meat and meat products,1,1
 milk,1,1
-Mykolayiv,5,5
-Odesa,5,5
-Poltava,5,5
+Mykolayiv,10,10
+Odesa,10,10
+pertussis  (18 months),1,1
+pertussis  (under 1 year),1,1
+poliomyelitis (14 years),1,1
+poliomyelitis (18 months),1,1
+poliomyelitis (6 years),1,1
+poliomyelitis (under 1 year),1,1
+Poltava,10,10
 processing and preserving of fish. crustaceans and molluscs,1,1
 processing and preserving of fruits and vegetables,1,1
 production of bread and bakery products. production of  short-term storage flour confectioner. cakes and pastries,1,1
@@ -64,17 +83,20 @@ production of rusks and biscuits. production of  long-term storage flour confect
 production of spices and seasonings,1,1
 production of sugar,1,1
 production of tea and coffee,1,1
-Rivne,5,5
-rural,2,2
+Rivne,10,10
+road transport used by road hauliers,1,1
+rural,6,6
 sugar,1,1
-Sumy,5,5
+Sumy,10,10
 sunflower oil,1,1
-Ternopil,5,5
+Ternopil,10,10
+tuberculosis  (under 1 year),1,1
 under 18 years old,2,2
-urban,2,2
+urban electric transport,1,1
+urban,6,6
 vegetables,1,1
-Vinnytsya,5,5
-Volyn,5,5
-Zakarpattya,5,5
-Zaporizhya,5,5
-Zhytomyr,5,5
+Vinnytsya,10,10
+Volyn,10,10
+Zakarpattya,10,10
+Zaporizhya,10,10
+Zhytomyr,10,10

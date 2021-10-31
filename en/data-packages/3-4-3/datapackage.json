@@ -1,0 +1,65 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Cherkasy",
+                "Chernihiv",
+                "Chernivtsi",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Ivano-Frankivsk",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Kirovohrad",
+                "Kyiv",
+                "Kyiv city",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Vinnytsya",
+                "Volyn",
+                "Zakarpattya",
+                "Zaporizhya",
+                "Zhytomyr"
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-4-3",
+  "title": "3-4-3"
+}
