@@ -220,6 +220,74 @@
       "title": "2-1-5"
     },
     {
+      "path": "4-3-1/data.csv",
+      "name": "4-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "4-3-1"
+    },
+    {
+      "path": "4-1-2/data.csv",
+      "name": "4-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "4-1-2"
+    },
+    {
       "path": "4-1-1/data.csv",
       "name": "4-1-1",
       "profile": "tabular-data-resource",
@@ -704,6 +772,151 @@
         ]
       },
       "title": "3-4-3"
+    },
+    {
+      "path": "4-4-4/data.csv",
+      "name": "4-4-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "expenditures of higher education institutions on scientific research activities. million UAH"
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "4-4-4"
+    },
+    {
+      "path": "4-4-2/data.csv",
+      "name": "4-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "all population. 15-24 years",
+                "all population. 25-64 years",
+                "all population.basic higher. 15-24 years",
+                "all population.basic higher. 25-64 years",
+                "all population.basic.elementary general or no education. 15-24 years",
+                "all population.basic.elementary general or no education. 25-64 years",
+                "all population.complete higher. 15-24 years",
+                "all population.complete higher. 25-64 years",
+                "all population.complete total average. 15-24 years",
+                "all population.complete total average. 25-64 years",
+                "all population.incomplete higher. 15-24 years",
+                "all population.incomplete higher. 25-64 years",
+                "all population.professional and technical. 15-24 years",
+                "all population.professional and technical. 25-64 years",
+                "female. 15-24 years",
+                "female. 25-64 years",
+                "female.basic higher. 15-24 years",
+                "female.basic higher. 25-64 years",
+                "female.basic.elementary general or no education. 15-24 years",
+                "female.basic.elementary general or no education. 25-64 years",
+                "female.complete higher. 15-24 years",
+                "female.complete higher. 25-64 years",
+                "female.complete total average. 15-24 years",
+                "female.complete total average. 25-64 years",
+                "female.incomplete higher. 15-24 years",
+                "female.incomplete higher. 25-64 years",
+                "female.professional and technical. 15-24 years",
+                "female.professional and technical. 25-64 years",
+                "male. 15-24 years",
+                "male. 25-64 years",
+                "male.basic higher. 15-24 years",
+                "male.basic higher. 25-64 years",
+                "male.basic.elementary general or no education. 15-24 years",
+                "male.basic.elementary general or no education. 25-64 years",
+                "male.complete higher. 15-24 years",
+                "male.complete higher. 25-64 years",
+                "male.complete total average. 15-24 years",
+                "male.complete total average. 25-64 years",
+                "male.incomplete higher. 15-24 years",
+                "male.incomplete higher. 25-64 years",
+                "male.professional and technical. 15-24 years",
+                "male.professional and technical. 25-64 years"
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "4-4-2"
+    },
+    {
+      "path": "4-4-1/data.csv",
+      "name": "4-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "4-4-1"
     },
     {
       "path": "2-3-3/data.csv",
@@ -1336,6 +1549,42 @@
       "title": "3-4-4"
     },
     {
+      "path": "4-2-1/data.csv",
+      "name": "4-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "rural",
+                "urban"
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "4-2-1"
+    },
+    {
       "path": "3-8-1/data.csv",
       "name": "3-8-1",
       "profile": "tabular-data-resource",
@@ -1370,6 +1619,44 @@
         ]
       },
       "title": "3-8-1"
+    },
+    {
+      "path": "4-4-3/data.csv",
+      "name": "4-4-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "average cost per doctoral student. UAH",
+                "average cost per full-time graduate student. UAH",
+                "average cost per graduate student trained on-the-job. UAH",
+                "average cost per student.UAH"
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "4-4-3"
     },
     {
       "path": "1-3-2/data.csv",
