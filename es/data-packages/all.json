@@ -110,7 +110,7 @@
           }
         ]
       },
-      "title": "1-2-1"
+      "title": "Proporción de la población que vive por debajo del umbral nacional de pobreza, desglosada por sexo y edad"
     },
     {
       "path": "5-1-1/data.csv",
@@ -270,7 +270,7 @@
           }
         ]
       },
-      "title": "2-1-3"
+      "title": "global_indicators.2-1-3-title"
     },
     {
       "path": "16-9-1/data.csv",
@@ -1128,7 +1128,7 @@
           }
         ]
       },
-      "title": "2-1-5"
+      "title": "global_indicators.2-1-5-title"
     },
     {
       "path": "12-2-1/data.csv",
@@ -2459,7 +2459,7 @@
           }
         ]
       },
-      "title": "2-1-1"
+      "title": "Prevalencia de la subalimentación"
     },
     {
       "path": "6-1-3/data.csv",
@@ -2741,7 +2741,7 @@
           }
         ]
       },
-      "title": "1-3-1"
+      "title": "Proporción de la población cubierta por sistemas o niveles mínimos de protección social, desglosada por sexo, distinguiendo entre los niños, los desempleados, los ancianos, las personas con discapacidad, las mujeres embarazadas, los recién nacidos, las víctimas de accidentes de trabajo, los pobres y los vulnerables"
     },
     {
       "path": "10-1-1/data.csv",
@@ -3284,7 +3284,7 @@
           }
         ]
       },
-      "title": "2-1-2"
+      "title": "Prevalencia de la inseguridad alimentaria moderada o grave entre la población, según la escala de experiencia de inseguridad alimentaria"
     },
     {
       "path": "2-2-2/data.csv",
@@ -3327,7 +3327,7 @@
           }
         ]
       },
-      "title": "2-2-2"
+      "title": "Prevalencia de la malnutrición (peso para la estatura, desviación típica > +2 o < -2 de la mediana de los patrones de crecimiento infantil de la OMS) entre los niños menores de 5 años, desglosada por tipo (emaciación y sobrepeso)"
     },
     {
       "path": "3-5-2/data.csv",
@@ -4538,7 +4538,7 @@
           }
         ]
       },
-      "title": "2-3-3"
+      "title": "global_indicators.2-3-3-title"
     },
     {
       "path": "8-5-1/data.csv",
@@ -5341,7 +5341,7 @@
           }
         ]
       },
-      "title": "2-3-2"
+      "title": "Media de ingresos de los productores de alimentos en pequeña escala, desglosada por sexo y condición indígena"
     },
     {
       "path": "14-2-2/data.csv",
@@ -5806,7 +5806,7 @@
           }
         ]
       },
-      "title": "2-4-1"
+      "title": "Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible"
     },
     {
       "path": "6-1-1/data.csv",
@@ -5902,7 +5902,7 @@
           }
         ]
       },
-      "title": "2-1-4"
+      "title": "global_indicators.2-1-4-title"
     },
     {
       "path": "3-7-1/data.csv",
@@ -6291,7 +6291,7 @@
           }
         ]
       },
-      "title": "2-3-1"
+      "title": "Volumen de producción por unidad de trabajo desglosado por tamaño y tipo de explotación (agropecuaria/ganadera/forestal)"
     },
     {
       "path": "16-8-4/data.csv",
@@ -6668,7 +6668,7 @@
           }
         ]
       },
-      "title": "2-2-1"
+      "title": "Prevalencia del retraso del crecimiento (estatura para la edad, desviación típica < -2 de la mediana de los patrones de crecimiento infantil de la Organización Mundial de la Salud (OMS)) entre los niños menores de 5 años"
     },
     {
       "path": "8-1-4/data.csv",
@@ -7314,7 +7314,7 @@
           }
         ]
       },
-      "title": "1-3-2"
+      "title": "global_indicators.1-3-2-title"
     },
     {
       "path": "5-2-3/data.csv",
