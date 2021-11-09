@@ -1,0 +1,49 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "farms (agricultural products)",
+                "farms (crop products)",
+                "farms (livestock products)",
+                "enterprises (agricultural products)",
+                "enterprises (crop products)",
+                "enterprises (livestock products)",
+                "households (agricultural products)",
+                "households (crop products)",
+                "households (livestock products)",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-2-2",
+  "title": "Поширеність недоїдання (вага для зростання > +2 або <-2 стандартне відхилення від медіани стандартів РОСТУ дитини ВООЗ) серед дітей до 5 років, за типом (марнування і надмірна вага)"
+}
