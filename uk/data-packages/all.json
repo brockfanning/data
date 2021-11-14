@@ -232,7 +232,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-1-3-title"
+      "title": "Consumption of fish per capita, kg/year"
     },
     {
       "path": "5-2-6/data.csv",
@@ -1210,7 +1210,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-1-5-title"
+      "title": "Consumption of fruit per capita, kg/year"
     },
     {
       "path": "1-3-2/data.csv",
@@ -1256,7 +1256,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-3-2-title"
+      "title": "Share of food expenditure in total household spending, %"
     },
     {
       "path": "16-1-2/data.csv",
@@ -1570,7 +1570,7 @@
           }
         ]
       },
-      "title": "Частка сільськогосподарських площ при продуктивному та сталому сільському господарстві"
+      "title": "The consumer price index for food, %"
     },
     {
       "path": "12-3-1/data.csv",
@@ -1725,7 +1725,7 @@
           }
         ]
       },
-      "title": "Обсяг виробництва на одиницю робочої сили за класами фермерського господарства/пастирського/лісогосподарського підприємства"
+      "title": "The index of food production, %"
     },
     {
       "path": "12-2-1/data.csv",
@@ -2066,7 +2066,7 @@
           }
         ]
       },
-      "title": "Поширеність помірної або серйозної нестачі продовольства серед населення на основі шкали досвіду продовольчої безпеки (FIES)"
+      "title": "Consumption of milk and dairy products per capita, kg/year"
     },
     {
       "path": "15-3-1/data.csv",
@@ -2265,7 +2265,7 @@
           }
         ]
       },
-      "title": "Середній дохід дрібних виробників продуктів харчування, за статтю та статусом корінних народів"
+      "title": "Share of food industry and agricultural raw materials processing production in exports of Ukrainian Classifier of Goods for Foreign Economic Activity groups 1–24, %"
     },
     {
       "path": "10-3-1/data.csv",
@@ -3590,7 +3590,7 @@
           }
         ]
       },
-      "title": "Поширеність недоїдання"
+      "title": "Consumption of meat per capita, kg/year"
     },
     {
       "path": "12-4-2/data.csv",
@@ -3658,7 +3658,7 @@
           }
         ]
       },
-      "title": "Поширеність трюків (зростання за віком <-2 стандартне відхилення від медіани Стандартів росту дітей Всесвітньої організації охорони здоров'я (ВООЗ) серед дітей до 5 років"
+      "title": "Labour productivity in agriculture, USD 1000s per employee"
     },
     {
       "path": "8-2-1/data.csv",
@@ -3772,7 +3772,7 @@
           }
         ]
       },
-      "title": "Частка населення, що живе за міжнародною межею бідності за статтю, віком, статусом зайнятості та географічним розташуванням (міське /сільське)"
+      "title": "Share of the population whose average per capita equivalent total expenditure is lower than the actual (estimated) subsistence minimum, %"
     },
     {
       "path": "2-3-3/data.csv",
@@ -3806,7 +3806,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-3-3-title"
+      "title": "Share of agricultural land under organic production in the total area of agricultural land, %"
     },
     {
       "path": "16-2-6/data.csv",
@@ -4213,7 +4213,7 @@
           }
         ]
       },
-      "title": "Частка населення, охопленого поверхами/системами соціального захисту, за статтю, розрізняючими дітьми, безробітними, людьми похилого віку, особами з інвалідністю, вагітними жінками, новонародженими, жертвами травм на роботі та бідними та вразливими."
+      "title": "Ratio of poverty levels of households with children and households without children, times"
     },
     {
       "path": "4-6-1/data.csv",
@@ -5058,7 +5058,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-1-2-title"
+      "title": "Share of individuals whose daily consumption is below USD 5.05 PPP, %"
     },
     {
       "path": "9-7-1/data.csv",
@@ -5500,7 +5500,7 @@
           }
         ]
       },
-      "title": "Поширеність недоїдання (вага для зростання > +2 або <-2 стандартне відхилення від медіани стандартів РОСТУ дитини ВООЗ) серед дітей до 5 років, за типом (марнування і надмірна вага)"
+      "title": "The index of agricultural production, %"
     },
     {
       "path": "15-3-4/data.csv",
@@ -6140,7 +6140,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-1-4-title"
+      "title": "Consumption of vegetables per capita, kg/year"
     },
     {
       "path": "5-6-1/data.csv",
@@ -6700,7 +6700,7 @@
           }
         ]
       },
-      "title": "Частка населення, що живе за національною межею бідності, за статтю та віком"
+      "title": "Share of the poor population covered by state social support in the total number of poor people, %"
     },
     {
       "path": "16-9-1/data.csv",
